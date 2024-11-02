@@ -1,0 +1,32 @@
+site_name: Moje projekty
+site_author: Maciej Sobczak
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Features Detective": features_detective/index.md
+- Poprzednie projekty:
+  - "Audio Notes": audio_notes/index.md
+  - "Features Detective App": features_detective/index.md
+  - "Find Friends": find_friends/index.md
+  - "Halfmarathon Estimator": halfmarathon_estimator/index.md
+  - "Iris": iris/index.md
+  - "My Chatbot": my_chatbot/index.md
+  - "Titanic": titanic/index.md
+  - "Welcome Survey": welcome_survey/index.md
+  
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
+
+repo_name: kasjansmigielski/ds_ai_portfolio
+repo_url: https://github.com/kasjansmigielski/ds_ai_portfolio
