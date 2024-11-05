@@ -1,8 +1,8 @@
-site_name: Moje projekty
-site_author: Maciej Sobczak
+site_name: My projects
+site_author: Kasjan Śmigielski
 site_url: https://kasjansmigielski.github.io/ds_ai_portfolio
 site_description: >-
-    Portfolio moich wspaniałych projektów z Data Science i AI!
+    Portfolio of my Data Science and AI projects, created with passion!
 
 repo_name: kasjansmigielski/ds_ai_portfolio
 repo_url: https://github.com/kasjansmigielski/ds_ai_portfolio
@@ -10,11 +10,11 @@ repo_url: https://github.com/kasjansmigielski/ds_ai_portfolio
 theme:
   name: material
   palette:
-    primary: blue
+    primary: light blue
 
 nav:
-- Strona Domowa: index.md
-- Moje projekty:
+- Home Page: index.md
+- Previous projects:
   - "Audio Notes": audio_notes/index.md
   - "Features Detective App": features_detective/index.md
   - "Find Friends": find_friends/index.md

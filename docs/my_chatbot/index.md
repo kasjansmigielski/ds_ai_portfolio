@@ -1,29 +1,30 @@
-# Aplikacja: My Chatbot
+# My Chatbot App
 
-*2024-09-15*
+*Date of creation: 2024-09-15*
 
-#### **Opis projektu:**
-Celem projektu było stworzenie własnego czatu gpt, bazując na interfejsie aplikacji Streamlit.<br><br> Udało się odtworzyć rozwiązanie i zaimplementować dodatkowe funkcjonalności:<br>
-- chatbot pamięta rozmowy i zapisuje je w strukturze plików JSON, a ponadto można w łatwy sposób przełączać się między konwersacjami (nie tracąc przy tym historii czatu),<br>
-- istnieje możliwość wyboru pomiędzy modelami z firmy OpenAI,<br>
-- zliczane są koszty korzystania z AI,<br>
-- można nadać chatbotowi indywidualną świadomość, która pokieruje typami odpowiedzi na zadawane pytania.<br>
+**Project description:**<br>
+The aim of the project was to create own version of Chat GPT, based on the Streamlit application interface. The chatbot can take on any personality to maximize its functionality to our preferences.
 
-Aplikacja została wdrożona na Streamlit Community App i jest dostępna do publicznego użytku.
+**Main functionalities:**<br>
+- the chatbot remembers conversations and saves them in a JSON file structure, and you can easily switch between conversations (without losing your chat history),<br>
+- you can choose between various models from OpenAI (*more models in the future*),<br>
+- the costs of using AI are counted,<br>
+- you can give the chatbot individual awareness that will guide the types of answers to the questions asked.<br>
 
-**Wykorzystane technologie:**<br>
+**Skills:**<br>
 - Python,<br>
 - Langfuse,<br>
 - OpenAI,<br>
 - Streamlit.
 
-
+**Sample photos:**<br>
 ![alt text](image-4.png)
 ![alt text](image-3.png)
 
+The application has been deployed on the Streamlit Community App and **is available for public use.**
 
-**Link do repozytorium:** https://github.com/kasjansmigielski/my_chatbot_app<br>
-**Link do aplikacji:** https://my-own-chatbot.streamlit.app/
+**Link to repository:** https://github.com/kasjansmigielski/my_chatbot_app<br>
+**Link to app:** https://my-own-chatbot.streamlit.app/
 
 
-[Przejdź do aplikacji](https://my-own-chatbot.streamlit.app/){ .md-button }
+[Go to application](https://my-own-chatbot.streamlit.app/){ .md-button }

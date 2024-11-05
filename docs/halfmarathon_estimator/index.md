@@ -1,20 +1,19 @@
-# Aplikacja: Halfmarathon Estimator
+# Halfmarathon Estimator App
 
-*2024-10-20*
+*Date of creation: 2024-10-20*
 
-#### **Opis projektu:**
-Celem projektu było stworzenie aplikacji, która wykorzysta algorymt regresyjny przy trenowaniu modeli i będzie potrafiła przewidzieć (na podstawie wcześniej wytrenowanych danych) czas, w jakim użytkownik przebiegnie półmaraton - podając określone dane.<br>
-**Główne funkcjonalności:**<br>
-- umożliwienie użytkownikowi swobody podczas podawania danych (bez żadnej odpowiedniej konwercji zapisu) - wykorzystany model LLM wyciąga dane od użytkownika do struktury JSON i przygotowuje je do wykorzystania przez model regresyjny,<br>
-- prosta funkcjonalność pozwala ostateczna wyestymować czas przebiegnięcia półmaratonu - stosując wytrenowany najlepszy model regresyjny,<br>
-- model LLM jest podpięty pod Langfuse, aby móc śledzić cykl życia modelu.
+**Project description:**<br>
+The aim of the project was to create an application that would use a regression algorithm to train models and would be able to predict (based on previously trained data) the time in which a user would run a half marathon - by providing specific data.<br>
 
-Do wytrenowania modelu wykorzystałem automatyzację PyCaret, natomiast sam algorytm umieściłem w notebooku - gotowym do pobrania.
-<a href="create_pipeline.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+**Project description:**<br>
+- allowing the user to enter data freely (without any appropriate conversion of the record) -> the LLM model used extracts data from the user into a JSON structure and prepares it for use by the regression model,<br>
+- simple functionality allows for the final estimation of the time to run a half marathon - using the trained best regression model,<br>
+- the LLM model is connected to Langfuse to track the model's life cycle.
 
-Aplikacja została wdrożona na Streamlit Community App i jest dostępna do publicznego użytku.
+**To train the AI ​​model** I used PyCaret tools and I have included the implementation in a notebook ready for download:<br>
+<a href="create_pipeline.ipynb" class="md-button md-button--primary">Download Notebook: Model training</a>
 
-**Wykorzystane technologie:**<br>
+**Skills:**<br>
 - Python,<br>
 - PyCaret,<br>
 - Machine Learning,<br>
@@ -27,12 +26,14 @@ Aplikacja została wdrożona na Streamlit Community App i jest dostępna do publ
 - Langfuse,<br>
 - Dotenv.
 
+**Sample photos:**<br>
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+The application has been deployed on the Streamlit Community App and **is available for public use.**
 
-**Link do repozytorium:** https://github.com/kasjansmigielski/halfmarathon_estimator_app<br>
-**Link do aplikacji:** https://halfmarathon-estimator.streamlit.app/
+**Link to repository:** https://github.com/kasjansmigielski/halfmarathon_estimator_app<br>
+**Link to app:** https://halfmarathon-estimator.streamlit.app/
 
 
-[Przejdź do aplikacji](https://halfmarathon-estimator.streamlit.app/){ .md-button }
+[Go to application](https://halfmarathon-estimator.streamlit.app/){ .md-button }

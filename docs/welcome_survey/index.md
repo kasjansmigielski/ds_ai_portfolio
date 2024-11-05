@@ -1,13 +1,17 @@
-# Aplikacja: Welcome Survey
+# Welcome Survey App
 
 *2024-09-22*
 
-#### **Opis projektu:**
-Celem projektu było stworzenie aplikacji, która umożliwi proste filtrowanie oraz przeglądanie danych z przykładowej ankiety powitalnej (dane zostały odpowiednio zanonimizowane). <br><br> Aplikacja miała na celu utrwalenie komponentów z bilblioteki Streamlit i zaznajomienie się z odpowiednim zarządzaniem stanem aplikacji (`st.session_state`), aby wszystkie przyciski i interakcje były ze sobą responsywne.
+**Project description:**<br>
+The aim of the project was to create an application that would allow for simple filtering and browsing of data from a sample welcome survey (the data was appropriately anonymized).<br> The aim of the application was to consolidate components from the Streamlit library and familiarize users with the proper management of the application state (`st.session_state`) so that all buttons and interactions were responsive to each other.
 
-Aplikacja została wdrożona na Streamlit Community App i jest dostępna do publicznego użytku. Zapraszam do zabawy.
+**Main functionalities:**<br>
+- the ability to browse an anonymous survey to familiarize yourself with the Streamlit interface,<br>
+- various types of filters allow you to get to know the analyzed data in more detail,<br>
+- visualizations are also included
+the application also contains interesting visualizations and for the most persistent - curiosities await!
 
-**Wykorzystane technologie:**<br>
+**Skills:**<br>
 - Python,<br>
 - Pandas,<br>
 - Matplotlib,<br>
@@ -15,15 +19,15 @@ Aplikacja została wdrożona na Streamlit Community App i jest dostępna do publ
 - Streamlit,<br>
 - Boto3.
 
-
+**Sample photos:**<br>
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
+The application has been deployed on the Streamlit Community App and **is available for public use.**
+
+**Link do repository:** https://github.com/kasjansmigielski/welcome_survey_app<br>
+**Link do app:** https://welcome-survey.streamlit.app/
 
 
-**Link do repozytorium:** https://github.com/kasjansmigielski/welcome_survey_app<br>
-**Link do aplikacji:** https://welcome-survey.streamlit.app/
-
-
-[Przejdź do aplikacji](https://welcome-survey.streamlit.app/){ .md-button }
+[Go to application](https://welcome-survey.streamlit.app/){ .md-button }

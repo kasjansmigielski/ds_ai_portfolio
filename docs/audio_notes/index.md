@@ -1,35 +1,35 @@
-# Aplikacja: Audio Notes
+# Audio Notes App
 
-*2024-10-03*
+*Date of creation: 2024-10-03*
 
-#### **Opis projektu:**
-Celem projektu było stworzenie pierwszej aplikacji zasilanej AI. W tym celu wykorzystałem dwa modele LLM z firmy OpenAI: `whisper-1` (speech -> text) oraz `text-embeddings-3-large` (text -> embeddings). <br>
-**Główne funkcjonalności:**<br>
-- nagrywanie notatek głosowych oraz ich odsłuchiwanie,<br>
-- tranksrypcja głosówek na tekst za pomocą AI,<br>
-- możliwość gromadzenia notatek w bazie danych QDrant,<br>
-- semantyczne wyszukiwanie danych, wykorzystujące algorytm przetwarzania tekstu na embeddings oraz znajdujące podobieństwa bazując na Cosinus Similarity.<br>
+**Project description:**<br>
+The goal of the project was to create the first AI-powered application. To do this, I used two LLM models from OpenAI: `whisper-1` (speech -> text) and `text-embeddings-3-large` (text -> embeddings). <br>
 
-Aplikacja została wdrożona na Streamlit Community App i jest dostępna do publicznego użytku.
+**Main functionalities:**<br>
+- recording and listening to voice notes,<br>
+- transcription of voices into text using AI,<br>
+- ability to collect notes in the QDrant database,<br>
+- semantic data search, using the text processing algorithm on embeddings and finding similarities based on Cosinus Similarity.<br>
 
-**Wykorzystane technologie:**<br>
+**Skills:**<br>
 - Python,<br>
 - QDrant,<br>
 - OpenAI embeddings,<br>
-_ OpenAI whisper-1,<br>
+- OpenAI whisper-1,<br>
 - Streamlit,<br>
 - Dotenv,<br>
 - PyDub,<br>
 - io,<br>
 - md5.
 
-
+**Sample photos:**<br>
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+The application has been deployed on the Streamlit Community App and **is available for public use.**
 
-**Link do repozytorium:** https://github.com/kasjansmigielski/audio_notes_app<br>
-**Link do aplikacji:** https://audio-notes.streamlit.app/
+**Link to repository:** https://github.com/kasjansmigielski/audio_notes_app<br>
+**Link do app:** https://audio-notes.streamlit.app/
 
 
-[Przejdź do aplikacji](https://audio-notes.streamlit.app/){ .md-button }
+[Go to application](https://audio-notes.streamlit.app/){ .md-button }
