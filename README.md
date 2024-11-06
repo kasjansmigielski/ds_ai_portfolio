@@ -4,4 +4,4 @@ For several months now, I have been intrigued by the topic of AI - so much so th
 
 ## I invite you to check out my portfolio from the world of data and AI!
 
-I encourage you to visit here regularly, because I have a lot of ideas for expanding my portfolio.
+*I encourage you to visit here regularly, because I have a lot of ideas for expanding my portfolio.*
