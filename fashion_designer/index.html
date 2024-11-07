@@ -12,13 +12,13 @@
         <meta name="author" content="Kasjan Śmigielski">
       
       
-        <link rel="canonical" href="https://kasjansmigielski.github.io/ds_ai_portfolio/halfmarathon_estimator/">
+        <link rel="canonical" href="https://kasjansmigielski.github.io/ds_ai_portfolio/fashion_designer/">
       
       
-        <link rel="prev" href="../find_friends/">
+        <link rel="prev" href="..">
       
       
-        <link rel="next" href="../iris/">
+        <link rel="next" href="../audio_notes/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -26,7 +26,7 @@
     
     
       
-        <title>Halfmarathon Estimator - My projects</title>
+        <title>Fashion Designer - My projects</title>
       
     
     
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#halfmarathon-estimator-app" class="md-skip">
+        <a href="#fashion-designer" class="md-skip">
           Skip to content
         </a>
       
@@ -112,7 +112,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Halfmarathon Estimator
+              Fashion Designer
             
           </span>
         </div>
@@ -246,17 +246,19 @@
       
   
   
+    
   
   
+  
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
         
           
           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
@@ -270,7 +272,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             Current project
@@ -281,10 +283,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../fashion_designer/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -293,6 +304,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -309,19 +321,17 @@
       
   
   
-    
   
   
-  
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -335,7 +345,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Previous projects
@@ -409,19 +419,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../halfmarathon_estimator/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -430,7 +431,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -563,35 +563,21 @@
   
 
 
-<h1 id="halfmarathon-estimator-app">Halfmarathon Estimator App</h1>
-<p><em>Date of creation: 2024-10-20</em></p>
+<h1 id="fashion-designer">Fashion Designer</h1>
+<p><em>Project start date</em>: 2024-11-07*</p>
+<p><em>Estimated date of completion: 2024-11-18</em></p>
 <p><strong>Project description:</strong><br>
-The aim of the project was to create an application that would use a regression algorithm to train models and would be able to predict (based on previously trained data) the time in which a user would run a half marathon - by providing specific data.<br></p>
-<p><strong>Project description:</strong><br>
-- allowing the user to enter data freely (without any appropriate conversion of the record) -&gt; the LLM model used extracts data from the user into a JSON structure and prepares it for use by the regression model,<br>
-- simple functionality allows for the final estimation of the time to run a half marathon - using the trained best regression model,<br>
-- the LLM model is connected to Langfuse to track the model's life cycle.</p>
-<p><strong>To train the AI ​​model</strong> I used PyCaret tools and I have included the implementation in a notebook ready for download:<br>
-<a href="create_pipeline.ipynb" class="md-button md-button--primary">Download Notebook: Model training</a></p>
-<p><strong>Skills:</strong><br>
-- Python,<br>
-- PyCaret,<br>
-- Machine Learning,<br>
-- Langfuse,<br>
-- OpenAI,<br>
-- Streamlit,<br>
-- Pandas,<br>
-- Instructor,<br>
-- Pydantic,<br>
-- Langfuse,<br>
-- Dotenv.</p>
-<p><strong>Sample photos:</strong><br>
-<img alt="alt text" src="image.png" />
-<img alt="alt text" src="image-1.png" /></p>
-<p>The application has been deployed on the Streamlit Community App and <strong>is available for public use.</strong></p>
-<p><strong>Link to repository:</strong> https://github.com/kasjansmigielski/halfmarathon_estimator_app<br>
-<strong>Link to app:</strong> https://halfmarathon-estimator.streamlit.app/</p>
-<p><a class="md-button" href="https://halfmarathon-estimator.streamlit.app/">Go to application</a></p>
+I am currently working on a project that is supposed to imitate the functionality of a fashion designer. The idea for the project came to me because of the needs of my life partner, who designs women's underwear. This application is supposed to automate the design process and will additionally be an inspiration for creating new elements from the world of fashion.<br></p>
+<p><strong>Main functionalities:</strong><br>
+- the user selects the type of service they want to design,<br>
+- the user defines the project concept - then receives visual inspirations generated by AI,<br>
+- the user shares data (the application guides the user step by step - visualization of individual stages),<br>
+- the user has the right to use construction allowance or service with the prediction of the regression model (calculating the most optimal required amount of material),<br>
+- the application - defined, calculates and saves parameters with a particular additional element,<br>
+- the AI ​​model draws the project based on the parameters calculated as a result,<br>
+- the user has the right to make corrections to the parameters * After approving the project - the user has the option to download the project in PDF format,<br>
+- finally, the AI ​​model is a summary of the project in the form of a short description and sending recommendations for use with plugins included in the program.</p>
+<p><strong>Stay tuned</strong> - I will be sharing progress in creating a new project!</p>
 
 
 
