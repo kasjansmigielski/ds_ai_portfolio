@@ -16,6 +16,7 @@ nav:
 - Home Page: index.md
 - Current project: 
   - "Fashion Designer": fashion_designer/index.md
+  - "CV Generator" : cv_generator/index.md
 - Previous projects:
   - "Audio Notes": audio_notes/index.md
   - "Features Detective App": features_detective/index.md
