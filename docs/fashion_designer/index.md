@@ -2,9 +2,9 @@
 
 *Project start date: 2024-11-07*
 
-*Update: 2024-11-19*
+*Update: 2024-11-25*
 
-*Estimated date of completion: 2024-11-23*
+*Estimated date of completion: 2024-12-06*
 
 **Project description:**<br>
 I am currently working on a project that is supposed to imitate the functionality of a fashion designer. The idea for the project came to me because of the needs of my life partner, who designs women's underwear. This application is supposed to automate the design process and will additionally be an inspiration for creating new elements from the world of fashion.<br>
@@ -40,6 +40,9 @@ I am currently working on a project that is supposed to imitate the functionalit
 ![alt text](<Zrzut ekranu 2024-11-19 o 17.52.21.png>)
 ![alt text](<Zrzut ekranu 2024-11-19 o 17.53.01.png>)
 ![alt text](<Zrzut ekranu 2024-11-19 o 17.53.09.png>)
+![alt text](shirt_concept.png)
+![alt text](shirt_dimensions.png)
+![alt text](shirt_construction.png)
 
 **Stay tuned:**<br>
-Currently I'm working on other items of women's underwear.
+Currently I'm working on other items of women's underwear **(currently the following constructions are generated: undershirt and panties**).

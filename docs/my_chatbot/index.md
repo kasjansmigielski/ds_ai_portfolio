@@ -21,10 +21,4 @@ The aim of the project was to create own version of Chat GPT, based on the Strea
 ![alt text](image-4.png)
 ![alt text](image-3.png)
 
-The application has been deployed on the Streamlit Community App and **is available for public use.**
-
-**Link to repository:** https://github.com/kasjansmigielski/my_chatbot_app<br>
-**Link to app:** https://my-own-chatbot.streamlit.app/
-
-
-[Go to application](https://my-own-chatbot.streamlit.app/){ .md-button }
+The application has been deployed on the Streamlit Community App helps me explore the secrets of AI and expand my programming skills on a daily basis.
