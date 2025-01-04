@@ -1,10 +1,5 @@
 # CV Generator
 
-*Project start date: 2024-11-10*
-
-*Update: 2024-12-08*
-
-*Estimated date of completion: 2024-12-20*
 
 **Project description:**<br>
 The aim of this project is to create a CV generator that will be easily editable and will allow you to generate information that is specific to a given company and offer. Using AI will allow you to best match your skills to the position you are applying for. This is to streamline the process of finding your dream job as a Data Scientist.<br>

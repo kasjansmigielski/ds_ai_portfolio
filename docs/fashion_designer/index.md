@@ -1,11 +1,5 @@
 # Fashion Designer
 
-*Project start date: 2024-11-07*
-
-*Update: 2024-12-08*
-
-*Estimated date of completion: 2024-12-24*
-
 **Project description:**<br>
 I am currently working on a project that is supposed to imitate the functionality of a fashion designer. The idea for the project came to me because of the needs of my life partner, who designs women's underwear. This application is supposed to automate the design process and will additionally be an inspiration for creating new elements from the world of fashion.<br>
 
