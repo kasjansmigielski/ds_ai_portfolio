@@ -8,10 +8,11 @@ In 2019, I graduated with a degree in Mechatronics from Wrocław University of S
 In recent months, I have developed a strong interest in AI, which led me to **complete a Data Scientist course and start building my portfolio**. I have developed several practical projects and have more ideas that I aim to turn into commercial products.
 
 I have also **secured my dream job in a Data Science department**, where I will be working on projects involving:
-* Computer Vision
-* Machine Learning
-* NLP
-* Generative AI
+
+- Computer Vision,<br>
+- Machine Learning,<br>
+- NLP,<br>
+- Generative AI.
 
 This site will document my scientific and technical progress, as **I will also begin my master's studies in AI and Machine Learning in March**.
 
