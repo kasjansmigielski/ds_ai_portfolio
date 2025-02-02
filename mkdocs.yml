@@ -14,10 +14,9 @@ theme:
 
 nav:
 - Home Page: index.md
-- Current projects: 
-  - "Fashion Designer": fashion_designer/index.md
-  - "CV Generator" : cv_generator/index.md
-- Previous projects:
+# - Current projects: 
+# - Previous projects:
+- My projects: 
   - "Audio Notes": audio_notes/index.md
   - "Features Detective App": features_detective/index.md
   - "Find Friends": find_friends/index.md
@@ -26,6 +25,8 @@ nav:
   - "My Chatbot": my_chatbot/index.md
   - "Titanic": titanic/index.md
   - "Welcome Survey": welcome_survey/index.md
+  - "Fashion Designer": fashion_designer/index.md
+  - "CV Generator" : cv_generator/index.md
   
 
 markdown_extensions: 

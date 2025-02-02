@@ -1,7 +1,8 @@
 # Fashion Designer
 
+
 **Project description:**<br>
-I am currently working on a project that is supposed to imitate the functionality of a fashion designer. The idea for the project came to me because of the needs of my life partner, who designs women's underwear. This application is supposed to automate the design process and will additionally be an inspiration for creating new elements from the world of fashion.<br>
+The aim of this project was to create an imitation of a fashion designer. The idea for the project came to me because of the needs of my life partner, who designs women's underwear. This application is to automate the design process and will additionally be an inspiration to create new elements from the world of fashion.<br>
 
 **Project architecture:**<br>
 ![alt text](fashion_designer_architecture.png)
@@ -37,6 +38,3 @@ I am currently working on a project that is supposed to imitate the functionalit
 ![alt text](shirt_concept.png)
 ![alt text](shirt_dimensions.png)
 ![alt text](shirt_construction.png)
-
-**Stay tuned:**<br>
-Currently I'm working on other items of women's underwear **(currently the following constructions are generated: undershirt and panties**).

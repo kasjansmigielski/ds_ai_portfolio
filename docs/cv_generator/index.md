@@ -2,7 +2,7 @@
 
 
 **Project description:**<br>
-The aim of this project is to create a CV generator that will be easily editable and will allow you to generate information that is specific to a given company and offer. Using AI will allow you to best match your skills to the position you are applying for. This is to streamline the process of finding your dream job as a Data Scientist.<br>
+The goal of this project was to create a CV generator that is easily editable and will allow you to generate information specific to a given company and offer. Using AI will allow you to best match your skills to the position you are applying for. This is to streamline the process of finding your dream job as a Data Scientist.<br>
 
 **Main functionalities:**<br>
 - the user enters information about themselves, the company and directly from the job offer,<br>
@@ -28,8 +28,3 @@ on this basis an intro is generated, which matches the skills to the individual 
 ![alt text](edit_intro.png)
 ![alt text](<Zrzut ekranu 2024-11-17 o 23.00.55.png>)
 ![alt text](<Zrzut ekranu 2024-11-17 o 23.01.16.png>)
-
-
-
-**Stay tuned:**<br>
-The CV generator is almost ready - only small corrections left.
