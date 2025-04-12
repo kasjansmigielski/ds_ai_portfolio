@@ -30,6 +30,8 @@ Additionally, since January 2025, **I have been a Student Success Manager at Got
 
 I am also preparing for the **AWS ML Associate exam**, which will allow me to expand my knowledge of cloud services and become a specialist in the Machine Learning field.
 
+![alt text](zdj_linkedin_new.jpg)
+
 ## About portfolio
 Here you will find many projects I have been working on recently: from domain exploration (EDA) on ready-made datasets, through creating Streamlit applications - allowing you to browse data in a simple way, and ending with AI-powered and Machine Learning-based applications - to find patterns invisible at first glance.
 
