@@ -28,13 +28,10 @@ The aim of the project was to create an application that would enable the use of
 - Matplotlib.
 
 **Sample photos:**<br>
-![alt text](image-2.png)
-![alt text](image-1.png)
+![alt text](data/first.png)
+![alt text](data/second.png)
 
 The application has been deployed on the Streamlit Community App and **is available for public use.**
 
-**Link to repository:** https://github.com/kasjansmigielski/find_friends_app<br>
-**Link to app:** https://find-friends-app.streamlit.app/
-
-
+[Link to repository](https://github.com/kasjansmigielski/find_friends_app)<br><br>
 [Go to application](https://find-friends-app.streamlit.app/){ .md-button }

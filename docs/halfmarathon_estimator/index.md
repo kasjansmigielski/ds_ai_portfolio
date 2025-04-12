@@ -27,13 +27,11 @@ The aim of the project was to create an application that would use a regression 
 - Dotenv.
 
 **Sample photos:**<br>
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](data/title.png)
+![alt text](data/result.png)
 
-The application has been deployed on the Streamlit Community App and **is available for public use.**
+The application has been deployed on the Streamlit Community App and **is available for public use.**<br>
+**To use the application you need your OpenAI API Key.**
 
-**Link to repository:** https://github.com/kasjansmigielski/halfmarathon_estimator_app<br>
-**Link to app:** https://halfmarathon-estimator.streamlit.app/
-
-
+[Link to repository](https://github.com/kasjansmigielski/halfmarathon_estimator_app)<br><br>
 [Go to application](https://halfmarathon-estimator.streamlit.app/){ .md-button }

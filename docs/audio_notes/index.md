@@ -23,13 +23,10 @@ The goal of the project was to create the first AI-powered application. To do th
 - md5.
 
 **Sample photos:**<br>
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](data/title.png)
+![alt text](data/result.png)
 
-The application has been deployed on the Streamlit Community App and **is available for public use.**
+The application has been deployed on the Streamlit Community App **helps me generate notes more easily and most importantly enables contextual search using AI.**
 
-**Link to repository:** https://github.com/kasjansmigielski/audio_notes_app<br>
-**Link do app:** https://audio-notes.streamlit.app/
+[Link to repository](https://github.com/kasjansmigielski/audio_notes_app)
 
-
-[Go to application](https://audio-notes.streamlit.app/){ .md-button }

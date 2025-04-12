@@ -1,5 +1,6 @@
 # CV Generator
 
+*Date of creation: 2024-11-06*
 
 **Project description:**<br>
 The goal of this project was to create a CV generator that is easily editable and will allow you to generate information specific to a given company and offer. Using AI will allow you to best match your skills to the position you are applying for. This is to streamline the process of finding your dream job as a Data Scientist.<br>
@@ -23,8 +24,8 @@ on this basis an intro is generated, which matches the skills to the individual 
 
 
 **Sample photos:**<br>
-![alt text](<Zrzut ekranu 2024-11-17 o 22.57.40.png>)
-![alt text](<Zrzut ekranu 2024-11-17 o 22.57.57.png>)
-![alt text](edit_intro.png)
-![alt text](<Zrzut ekranu 2024-11-17 o 23.00.55.png>)
-![alt text](<Zrzut ekranu 2024-11-17 o 23.01.16.png>)
+![alt text](data/title.png)
+![alt text](data/skills.png)
+![alt text](data/edit_intro.png)
+![alt text](data/description.png)
+![alt text](data/download.png)

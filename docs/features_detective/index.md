@@ -28,15 +28,14 @@ The aim of the project was to create a universal application that allows for det
 - Boto3.
 
 **Sample photos:**<br>
-![alt text](image.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](data/title.png)
+![alt text](data/choice_column.png)
+![alt text](data/recommends.png)
+![alt text](data/plot.png)
 
-The application has been deployed on the Streamlit Community App and **is available for public use.**
+The application has been deployed on the Streamlit Community App and **is available for public use.**<br>
+**To use the application you need your OpenAI API Key.**
 
-**Link do repository:** https://github.com/kasjansmigielski/feature_detective_app<br>
-**Link do app:** https://feature-detective.streamlit.app/
-
+[Link to repository](https://github.com/kasjansmigielski/feature_detective_app)<br><br>
 [Go to application](https://feature-detective.streamlit.app/){ .md-button }
 

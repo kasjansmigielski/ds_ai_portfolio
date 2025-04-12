@@ -18,7 +18,7 @@ The aim of the project was to create own version of Chat GPT, based on the Strea
 - Streamlit.
 
 **Sample photos:**<br>
-![alt text](image-4.png)
-![alt text](image-3.png)
+![alt text](data/title.png)
+![alt text](data/result.png)
 
-The application has been deployed on the Streamlit Community App helps me explore the secrets of AI and expand my programming skills on a daily basis.
+The application has been deployed on the Streamlit Community App **helps me explore the secrets of AI and expand my programming skills on a daily basis.**
