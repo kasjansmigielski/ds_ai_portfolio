@@ -33,3 +33,11 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+
+# Dodajemy konfigurację dla obsługi zasobów statycznych
+docs_dir: docs
+use_directory_urls: false
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kasjansmigielski

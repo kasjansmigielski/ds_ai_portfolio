@@ -2,3 +2,6 @@ site
 zdj_linkedin_new.jpg
 **/data/
 .DS_Store
+..gitignore 2.icloud
+.mkdocs 2.yml.icloud
+.README 2.md.icloud
