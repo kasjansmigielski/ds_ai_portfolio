@@ -23,6 +23,7 @@ nav:
   - "Find Friends": find_friends/index.md
   - "Halfmarathon Estimator": halfmarathon_estimator/index.md
   - "Iris": iris/index.md
+  - "JustJoinIt Browser": justjoinit_browser/index.md
   - "My Chatbot": my_chatbot/index.md
   - "Titanic": titanic/index.md
   - "Welcome Survey": welcome_survey/index.md
