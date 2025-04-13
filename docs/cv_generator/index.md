@@ -2,28 +2,33 @@
 
 *Date of creation: 2024-11-06*
 
-**Project description:**<br>
-The goal of this project was to create a CV generator that is easily editable and will allow you to generate information specific to a given company and offer. Using AI will allow you to best match your skills to the position you are applying for. This is to streamline the process of finding your dream job as a Data Scientist.<br>
+## Project description
+<div style="text-align: justify;">
+The goal of this project was to create a CV generator that is easily editable and will allow you to generate information specific to a given company and offer. Using AI will allow you to best match your skills to the position you are applying for. This is to streamline the process of finding your dream job as a Data Scientist.
+</div style>
 
-**Main functionalities:**<br>
-- the user enters information about themselves, the company and directly from the job offer,<br>
-- additionally provides the most important skills (programming languages, databases or libraries learned),<br>
-on this basis an intro is generated, which matches the skills to the individual job offer,<br>
-- user can edit AI generated intro,<br>
-- then the user can preview the CV content in the application (in Markdown format),<br>
-- finally the user has the option to name and download the CV in PDF format.
+## Main functionalities
+<ul>
+  <li>the user enters information about themselves, the company and directly from the job offer</li>
+  <li>additionally provides the most important skills (programming languages, databases or libraries learned)</li>
+  <li>on this basis an intro is generated, which matches the skills to the individual job offer</li>
+  <li>user can edit AI generated intro</li>
+  <li>then the user can preview the CV content in the application (in Markdown format)</li>
+  <li>finally the user has the option to name and download the CV in PDF format</li>
+</ul>
 
-**Skills:**<br>
-- Python,<br>
-- OpenAI,<br>
-- Streamlit,<br>
-- HTLM,<br>
-- PDFkit,<br>
-- Markdown,<br>
-- Template.
+## Skills
+<ul>
+  <li>Python</li>
+  <li>OpenAI</li>
+  <li>Streamlit</li>
+  <li>HTLM</li>
+  <li>PDFkit</li>
+  <li>Markdown</li>
+  <li>Template</li>
+</ul>
 
-
-**Sample photos:**<br>
+## Sample photos
 ![alt text](data/title.png)
 ![alt text](data/skills.png)
 ![alt text](data/edit_intro.png)

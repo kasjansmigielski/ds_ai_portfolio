@@ -2,31 +2,38 @@
 
 *Date of creation: 2024-10-03*
 
-**Project description:**<br>
-The goal of the project was to create the first AI-powered application. To do this, I used two LLM models from OpenAI: `whisper-1` (speech -> text) and `text-embeddings-3-large` (text -> embeddings). <br>
+## Project description
+<div style="text-align: justify;">
+The goal of the project was to create the first AI-powered application. To do this, I used two LLM models from OpenAI: <code>whisper-1</code> (speech -> text) and <code>text-embeddings-3-large</code> (text -> embeddings). <br>
+</div style>
 
-**Main functionalities:**<br>
-- recording and listening to voice notes,<br>
-- transcription of voices into text using AI,<br>
-- ability to collect notes in the QDrant database,<br>
-- semantic data search, using the text processing algorithm on embeddings and finding similarities based on Cosinus Similarity.<br>
+## Main functionalities
+<ul style="text-align: justify;">
+  <li>Recording and listening to voice notes</li>
+  <li>Transcription of voices into text using AI</li>
+  <li>Ability to collect notes in the QDrant database</li>
+  <li>Semantic data search using the text processing algorithm on embeddings and finding similarities based on Cosinus Similarity</li>
+</ul>
 
-**Skills:**<br>
-- Python,<br>
-- QDrant,<br>
-- OpenAI embeddings,<br>
-- OpenAI whisper-1,<br>
-- Streamlit,<br>
-- Dotenv,<br>
-- PyDub,<br>
-- io,<br>
-- md5.
+## Skills
+<ul>
+  <li>Python</li>
+  <li>QDrant</li>
+  <li>OpenAI embeddings</li>
+  <li>OpenAI whisper-1</li>
+  <li>Streamlit</li>
+  <li>Dotenv</li>
+  <li>PyDub</li>
+  <li>io</li>
+  <li>md5</li>
+</ul>
 
-**Sample photos:**<br>
+## Sample photos
 ![alt text](data/title.png)
 ![alt text](data/result.png)
-
-The application has been deployed on the Streamlit Community App **helps me generate notes more easily and most importantly enables contextual search using AI.**
-
+## Application usage
+<div style="text-align: justify;">
+The application has been deployed on the Streamlit Community App <strong>helps me generate notes more easily and most importantly enables contextual search using AI.</strong>
+</div style>
 [Link to repository](https://github.com/kasjansmigielski/audio_notes_app)
 

@@ -2,10 +2,15 @@
 
 *Date of creation: 2024-08-25*
 
-**Introduction:**<br>
+## Introduction
+<div style="text-align: justify;">
 I invite you to familiarize yourself with my project, which takes us into the world of data analysis regarding the world-famous Titanic disaster. In order to explore the information, I use domain exploration (EDA). In this project, you will find many relevant conclusions and interesting observations. Prepare yourself for an interesting journey with data that will broaden your horizons of looking at one of the greatest maritime disasters in history.
+</div style>
 
+## Project download
+<div style="text-align: justify;">
 <a href="titanic.ipynb" class="md-button md-button--primary">Download Notebook</a>
+</div style>
 
 <iframe
     id="content"
