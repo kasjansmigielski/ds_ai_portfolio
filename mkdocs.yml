@@ -19,16 +19,20 @@ nav:
 # - Previous projects:
 - My projects: 
   - "Audio Notes": audio_notes/index.md
+  - "Bitcoin Price Prediction": bitcoin_prediction/index.md
+  - "CIFAR-10 Image Classification": cifar10_classification/index.md
+  - "CV Generator" : cv_generator/index.md
+  - "Fashion Designer": fashion_designer/index.md
   - "Features Detective": features_detective/index.md
   - "Find Friends": find_friends/index.md
   - "Halfmarathon Estimator": halfmarathon_estimator/index.md
   - "Iris": iris/index.md
   - "JustJoinIt Browser": justjoinit_browser/index.md
   - "My Chatbot": my_chatbot/index.md
+  - "Robinson Chatbot": robinson_chatbot/index.md
   - "Titanic": titanic/index.md
   - "Welcome Survey": welcome_survey/index.md
-  - "Fashion Designer": fashion_designer/index.md
-  - "CV Generator" : cv_generator/index.md
+
   
 
 markdown_extensions: 

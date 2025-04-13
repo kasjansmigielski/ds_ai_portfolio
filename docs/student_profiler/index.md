@@ -30,6 +30,7 @@ Student Profiler is a specialized tool developed for Gotoit company to track stu
   <li>Streamlit</li>
   <li>Plotly</li>
   <li>Pydantic-settings</li> 
+  <li>SQL</li>
   <li>SRP design</li>
 </ul>
 
