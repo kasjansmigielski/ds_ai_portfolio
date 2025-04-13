@@ -14,7 +14,8 @@ theme:
 
 nav:
 - Home Page: index.md
-# - Current projects: 
+- Current projects: 
+  - "Student Profiler": student_profiler/index.md
 # - Previous projects:
 - My projects: 
   - "Audio Notes": audio_notes/index.md
@@ -33,11 +34,3 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
-
-# # Dodajemy konfigurację dla obsługi zasobów statycznych
-# docs_dir: docs
-# use_directory_urls: false
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/kasjansmigielski
