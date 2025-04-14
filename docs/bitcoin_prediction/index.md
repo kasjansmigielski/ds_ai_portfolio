@@ -30,6 +30,7 @@ This project focuses on developing a predictive model for Bitcoin price movement
   <li>Keras</li>
   <li>LSTM</li>
   <li>Matplotlib</li> 
+  <li>LaTeX</li>
 </ul>
 
 ## Project Report

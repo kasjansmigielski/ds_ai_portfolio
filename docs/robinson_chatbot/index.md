@@ -32,6 +32,7 @@ The Robinson Chatbot project explores the implementation of <strong>Retrieval-Au
   <li>Streamlit</li> 
   <li>Prompt Engineerning</li>
   <li>Embeddings</li>
+  <li>LaTeX</li>
 </ul>
 
 ## Project Report

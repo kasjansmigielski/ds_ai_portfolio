@@ -30,6 +30,7 @@ This project implements an advanced <strong>Convolutional Neural Network (CNN)</
   <li>Sklearn</li>
   <li>Numpy</li>
   <li>KFold</li> 
+  <li>LaTeX</li>
 </ul>
 
 ## Project Report
