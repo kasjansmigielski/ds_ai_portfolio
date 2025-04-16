@@ -21,7 +21,11 @@ Student Profiler is a specialized tool developed for Gotoit company to track stu
 
 ## Skills
 <ul>
+  <li>Docker</li>
+  <li>Digital Ocean</li>
+  <li>PostgreSQL</li>
   <li>Python</li>
+  <li>SQL</li>
   <li>Requests</li>
   <li>Pandas</li>
   <li>Discord API</li>
@@ -30,7 +34,6 @@ Student Profiler is a specialized tool developed for Gotoit company to track stu
   <li>Streamlit</li>
   <li>Plotly</li>
   <li>Pydantic-settings</li> 
-  <li>SQL</li>
   <li>SRP design</li>
 </ul>
 
