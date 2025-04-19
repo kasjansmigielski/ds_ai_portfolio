@@ -15,6 +15,7 @@ theme:
 nav:
 - Home Page: index.md
 - Current projects: 
+  - "Knowledge Seeker": knowledge_seeker/index.md
   - "Student Profiler": student_profiler/index.md
 # - Previous projects:
 - My projects: 

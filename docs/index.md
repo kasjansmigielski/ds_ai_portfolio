@@ -13,15 +13,21 @@ Welcome to my website dedicated to projects in the field of data analysis, machi
 In 2019, I graduated with a degree in Mechatronics from Wrocław University of Science and Technology, sparking my desire to explore new technologies. Over the past five years, I worked as an engineer in the manufacturing industry, where data played a crucial role in my work. By analyzing production and quality data, I was able to optimize processes and find innovative solutions to enhance productivity and efficiency.
 </div style>
 
-![alt text](zdj_linkedin_new.jpg)
+<div style="text-align: center;">
+<img src="zdj_linkedin_new.jpg" alt="Profile photo">
+</div>
 
 <div style="text-align: justify;">
 Since the year, I have been developing a strong interest in AI, which has led me to <strong>complete a Data Scientist course and start building my portfolio</strong>. I have developed several practical projects and have more ideas that I aim to turn into commercial products.
 </div style>
 
 <div style="text-align: justify;">
-<br>I have also <strong>secured my dream job in a Data Science department</strong>, where I will be working on projects related to Machine Learning and Deep Learning.
+<br>I have also <strong>secured my dream job in a Data Science department</strong>, where I will be working on projects related to Machine Learning and Deep Learning. Additionally I am a <strong>certified AWS Machine Learning Engineer Associate</strong>, which has strengthened my cloud-based ML implementation skills.
 </div style>
+
+<div style="text-align: center;">
+<img src="MLA01.png" alt="AWS Certification" width="70%">
+</div>
 
 ## My current activity
 <div style="text-align: justify;">
@@ -33,7 +39,7 @@ Due to my growing passion for AI and Data Science, <strong>I began my master's s
 </div style>
 
 <div style="text-align: justify;">
-<br>I am also preparing for the <strong>AWS ML Associate exam</strong>, which will allow me to expand my knowledge of cloud services and become a specialist in the Machine Learning field.
+<br>Recently, I have taken on the role of <strong>project leader for Knowledge Seeker</strong>, an innovative system that uses RAG (Retrieval-Augmented Generation) technology to transcribe, index, and extract information from video content. This project allows me to apply cutting-edge AI techniques in a practical business context.
 </div style>
 
 
