@@ -1,0 +1,10 @@
+name: ds_ai_portfolio
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip:
+    - mkdocs
+    - mkdocs-material
+    - mkdocs-static-i18n

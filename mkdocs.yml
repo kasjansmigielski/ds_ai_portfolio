@@ -7,17 +7,52 @@ site_description: >-
 repo_name: kasjansmigielski/ds_ai_portfolio
 repo_url: https://github.com/kasjansmigielski/ds_ai_portfolio
 
+# Domyślny port dla mkdocs serve
+dev_addr: 127.0.0.1:8003
+
 theme:
   name: material
+  language: en
   palette:
-    primary: light blue
+    # Przełącznik motywu jasny/ciemny
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+# Przełącznik języków
+extra:
+  alternate:
+    - name: English
+      link: /ds_ai_portfolio/
+      lang: en
+    - name: Polski
+      link: /ds_ai_portfolio/pl/
+      lang: pl
 
 nav:
-- Home Page: index.md
+- Home: index.md
 - Current projects: 
   - "Knowledge Seeker": knowledge_seeker/index.md
   - "Student Profiler": student_profiler/index.md
-# - Previous projects:
 - My projects: 
   - "Audio Notes": audio_notes/index.md
   - "Bitcoin Price Prediction": bitcoin_prediction/index.md
@@ -34,9 +69,51 @@ nav:
   - "Titanic": titanic/index.md
   - "Welcome Survey": welcome_survey/index.md
 
-  
-
 markdown_extensions: 
   - attr_list
   - md_in_html
   - tables
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pl
+          name: Polski
+          build: true
+          nav_translations:
+            Home: Strona główna
+            Current projects: Aktualne projekty
+            My projects: Moje projekty
+            Knowledge Seeker: Knowledge Seeker
+            Student Profiler: Student Profiler
+            Audio Notes: Audio Notes
+            Bitcoin Price Prediction: Predykcja ceny Bitcoin
+            CIFAR-10 Image Classification: Klasyfikacja obrazów CIFAR-10
+            CV Generator: Generator CV
+            Fashion Designer: Fashion Designer
+            Features Detective: Features Detective
+            Find Friends: Find Friends
+            Halfmarathon Estimator: Estymator Półmaratonu
+            Iris: Iris
+            JustJoinIt Browser: JustJoinIt Browser
+            My Chatbot: Mój Chatbot
+            Robinson Chatbot: Robinson Chatbot
+            Titanic: Titanic
+            Welcome Survey: Ankieta powitalna
+          theme:
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                toggle:
+                  name: Przełącz na tryb ciemny
+              - media: "(prefers-color-scheme: dark)"
+                toggle:
+                  name: Przełącz na tryb jasny
