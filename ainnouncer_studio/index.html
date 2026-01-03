@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Portfolio of AI, Machine Learning and Data Science projects by Kasjan Śmigielski —  AI Engineer, Data Scientist, ML Engineer.">
+        <meta name="description" content="Portfolio of AI, Machine Learning and Data Science projects by Kasjan Śmigielski —  AI/ML Engineer, Data Scientist.">
       
       
         <meta name="author" content="Kasjan Śmigielski">
@@ -1660,36 +1660,29 @@
 <p><strong>Role:</strong> Tech Lead / AI Engineer</p>
 <hr />
 <h2 id="project-description">Project description</h2>
-<div style="text-align: justify;">
-<strong>AInnouncer Studio</strong> is a comprehensive AI platform for automatic audio content generation for radio stations, built on a <strong>professional LLMs and LLOps architecture</strong>.
-
-Radio stations need regular, professional audio content: weather forecasts, music announcements, on-air messages, or advertising materials. This process is time-consuming, expensive, difficult to scale, and heavily dependent on people.
-
-The system combines:
-
-- text generation (LLM),
-- voice synthesis (TTS),
-- audio mixing (broadcast-ready),
-- automation,
-- monitoring and quality control.
-
-The platform was designed as a <strong>scalable SaaS</strong>, ready for multiple clients and additional modules.
-</div>
-
+<p><strong>AInnouncer Studio</strong> is a comprehensive AI platform for automatic audio content generation for radio stations, built on a <strong>professional LLMs and LLOps architecture</strong>.</p>
+<p>Radio stations need regular, professional audio content: weather forecasts, music announcements, on-air messages, or advertising materials. This process is time-consuming, expensive, difficult to scale, and heavily dependent on people.</p>
+<p>The system combines:</p>
+<ul>
+<li>text generation (LLM),</li>
+<li>voice synthesis (TTS),</li>
+<li>audio mixing (broadcast-ready),</li>
+<li>automation,</li>
+<li>monitoring and quality control.</li>
+</ul>
+<p>The platform was designed as a <strong>scalable SaaS</strong>, ready for multiple clients and additional modules.</p>
 <hr />
 <h2 id="architecture-overview">Architecture Overview</h2>
-<div style="text-align: justify;">
-AInnouncer Studio is an <strong>event-driven + worker-based</strong> architecture:
-
-- **Frontend (Next.js)** — configuration of modules, prompts, voices, schedules
-- **Backend API (FastAPI)** — domain logic, routing, validation, orchestration
-- **Asynchronous workers (Dramatiq + Redis)** — content generation, TTS, mixing, upload
-- **LLM Layer** — OpenAI GPT-4o / GPT-4o-mini with advanced system prompts
-- **LLOps & Observability** — Langfuse (traces, spans, cost, quality), prompt versioning, Promptfoo (prompt testing)
-- **Data Layer** — PostgreSQL (configurations, prompts, voices, schedules), S3-compatible storage (audio)
-- **Infrastructure** — Docker Compose, CI/CD, Monitoring (Prometheus + Grafana)
-</div>
-
+<p>AInnouncer Studio is an <strong>event-driven + worker-based</strong> architecture:</p>
+<ul>
+<li><strong>Frontend (Next.js)</strong> — configuration of modules, prompts, voices, schedules</li>
+<li><strong>Backend API (FastAPI)</strong> — domain logic, routing, validation, orchestration</li>
+<li><strong>Asynchronous workers (Dramatiq + Redis)</strong> — content generation, TTS, mixing, upload</li>
+<li><strong>LLM Layer</strong> — OpenAI GPT-4o / GPT-4o-mini with advanced system prompts</li>
+<li><strong>LLOps &amp; Observability</strong> — Langfuse (traces, spans, cost, quality), prompt versioning, Promptfoo (prompt testing)</li>
+<li><strong>Data Layer</strong> — PostgreSQL (configurations, prompts, voices, schedules), S3-compatible storage (audio)</li>
+<li><strong>Infrastructure</strong> — Docker Compose, CI/CD, Monitoring (Prometheus + Grafana)</li>
+</ul>
 <hr />
 <h2 id="key-modules">Key Modules</h2>
 <h3 id="weather-forecast-production">Weather Forecast (Production)</h3>
@@ -1820,7 +1813,7 @@ AInnouncer Studio is an <strong>event-driven + worker-based</strong> architectur
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.top", "navigation.sections", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.tracking", "navigation.tabs", "navigation.top", "navigation.sections", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
