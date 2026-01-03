@@ -8,10 +8,9 @@
 
 ## Project description
 
-<div style="text-align: justify;">
-<strong>B-Roll Assistant</strong> is an intelligent AI assistant that <strong>automatically catalogs video materials</strong> and enables their <strong>instant search</strong>.
+**B-Roll Assistant** is an intelligent AI assistant that **automatically catalogs video materials** and enables their **instant search**.
 
-In newsrooms and video production environments, time is critical. Editors and video editors must <strong>quickly find the right B-roll</strong>, often under deadline pressure. In practice:
+In newsrooms and video production environments, time is critical. Editors and video editors must **quickly find the right B-roll**, often under deadline pressure. In practice:
 
 - video materials are poorly described or not at all,
 - file names are ambiguous,
@@ -22,11 +21,10 @@ The system:
 
 - analyzes video without user intervention,
 - generates snapshots and shot descriptions using AI,
-- combines classic search with <strong>semantic search</strong>,
+- combines classic search with **semantic search**,
 - learns from editor ratings.
 
-Thanks to this, the editor doesn't need to know *how the file was named* — just describe <strong>what they're looking for</strong>.
-</div>
+Thanks to this, the editor doesn't need to know *how the file was named* — just describe **what they're looking for**.
 
 ---
 
@@ -51,12 +49,14 @@ Thanks to this, the editor doesn't need to know *how the file was named* — jus
 - **Semantic search** (search by meaning and concepts)
 
 Example queries:
+
 - "glass"
 - "transparent container"
 - "tense political rally"
 - "crowd waiting nervously"
 
 The system enables rating results, which:
+
 - improves accuracy,
 - adjusts ranking,
 - increases search effectiveness over time.
@@ -65,16 +65,14 @@ The system enables rating results, which:
 
 ## Architecture Overview
 
-<div style="text-align: justify;">
-B-Roll Assistant is a <strong>multimodal pipeline</strong>:
+B-Roll Assistant is a **multimodal pipeline**:
 
 - **Video ingestion** — file structure analysis, frame extraction
 - **AI processing** — vision → image description, text → embeddings
 - **Search layer** — classic indexes, vector database
 - **Feedback loop** — user ratings, result ranking correction
 
-Designed for <strong>performance and scaling</strong> in media environments.
-</div>
+Designed for **performance and scaling** in media environments.
 
 ---
 
@@ -123,4 +121,3 @@ Designed for <strong>performance and scaling</strong> in media environments.
 ![File management](data/file_management.png)
 ![Drone footage](data/dron.png)
 ![Pisanie](data/pisanie.png)
-

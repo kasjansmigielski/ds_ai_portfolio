@@ -46,5 +46,3 @@ I used PyCaret tools and I have included the implementation in a notebook ready 
 ## Links
 
 [Link to repository](https://github.com/kasjansmigielski/feature_detective_app){ .md-button }
-
-[Go to application](https://feature-detective.streamlit.app/){ .md-button }

@@ -41,5 +41,3 @@ I used PyCaret tools and I have included the implementation in a notebook ready 
 ## Links
 
 [Link to repository](https://github.com/kasjansmigielski/halfmarathon_estimator_app){ .md-button }
-
-[Go to application](https://halfmarathon-estimator.streamlit.app/){ .md-button }

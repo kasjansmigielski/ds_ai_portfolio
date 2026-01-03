@@ -1,14 +1,11 @@
 <div style="text-align: center;">
 <h1>Kasjan Śmigielski</h1>
-<h3>AI Engineer | Data Scientist | ML Engineer</h3>
+<h3>AWS ML Engineer & Data Scientist</h3>
 </div>
 
-<div style="text-align: center; margin: 20px 0;">
-<img src="zdj_linkedin_new.jpg" alt="Kasjan Śmigielski" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
-</div>
-
-<div style="text-align: center; margin-bottom: 30px;">
-<img src="MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="150px">
+<div style="text-align: center; margin: 20px 0; display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<img src="zdj_linkedin_new.jpg" alt="Kasjan Śmigielski" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;">
+<img src="MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="140px">
 </div>
 
 ---

@@ -10,8 +10,7 @@
 
 ## Project description
 
-<div style="text-align: justify;">
-<strong>Larvixon-AI</strong> is a system based on <strong>computer vision and deep learning</strong> that automatically analyzes movement behaviors of <strong>Galleria mellonella</strong> larvae after injection of selected bacterial pathogens.
+**Larvixon-AI** is a system based on **computer vision and deep learning** that automatically analyzes movement behaviors of **Galleria mellonella** larvae after injection of selected bacterial pathogens.
 
 Sepsis is one of the most serious problems in modern medicine, and rapid pathogen identification is crucial for implementing appropriate therapy. Classic diagnostic methods:
 
@@ -19,16 +18,14 @@ Sepsis is one of the most serious problems in modern medicine, and rapid pathoge
 - require advanced laboratory facilities,
 - don't always allow for quick clinical decisions.
 
-The <strong>Galleria mellonella</strong> model enables observation of behavioral changes after infection. However, previous analysis was manual, difficult to standardize, and limited in scalability.
+The **Galleria mellonella** model enables observation of behavioral changes after infection. However, previous analysis was manual, difficult to standardize, and limited in scalability.
 
-The project is carried out as a <strong>master's thesis</strong> in collaboration with the <strong>Medical University of Wrocław</strong>.
-</div>
+The project is carried out as a **master's thesis** in collaboration with the **Medical University of Wrocław**.
 
 ---
 
 ## How It Works
 
-<div style="text-align: justify;">
 Larvixon-AI is a video analysis pipeline:
 
 - **Video ingestion** — HD recordings (25 FPS), various lighting conditions
@@ -37,7 +34,6 @@ Larvixon-AI is a video analysis pipeline:
 - **Data & visualization** — CSV export, statistical analysis, result visualizations
 
 The architecture is prepared for further integration with deep learning models.
-</div>
 
 ---
 
@@ -85,13 +81,10 @@ The architecture is prepared for further integration with deep learning models.
 
 ## Impact & Future Work
 
-<div style="text-align: justify;">
 Larvixon-AI provides a foundation for further research on:
 
 - automatic identification of septic pathogens,
 - accelerating infection diagnostics,
 - using deep learning in behavioral analysis.
 
-The project connects <strong>AI engineering</strong> with <strong>biomedical research</strong> and bridges science with practical clinical applications.
-</div>
-
+The project connects **AI engineering** with **biomedical research** and bridges science with practical clinical applications.

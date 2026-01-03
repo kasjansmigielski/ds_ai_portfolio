@@ -8,8 +8,7 @@
 
 ## Project description
 
-<div style="text-align: justify;">
-In industrial organizations, quality and technical data are often <strong>scattered across multiple sources</strong>:
+In industrial organizations, quality and technical data are often **scattered across multiple sources**:
 
 - quality reports in Excel,
 - technical documentation in PDF,
@@ -23,28 +22,24 @@ As a result:
 - there's no single place for quality analysis and decisions,
 - organizational knowledge is heavily dependent on specific people.
 
-I designed the <strong>Quality Management System (QMS)</strong>, whose main goal was to create <strong>one central source of truth</strong> for quality data and technical knowledge.
-</div>
+I designed the **Quality Management System (QMS)**, whose main goal was to create **one central source of truth** for quality data and technical knowledge.
 
 ---
 
 ## Solution
 
-<div style="text-align: justify;">
 The system combines:
 
 - classic QMS (reports, actions, metrics),
 - **Knowledge Management** layer,
 - **semantic search** enabling natural language queries.
 
-Everything was delivered as a <strong>Streamlit application</strong> serving as an operational quality dashboard.
-</div>
+Everything was delivered as a **Streamlit application** serving as an operational quality dashboard.
 
 ---
 
 ## Architecture Overview
 
-<div style="text-align: justify;">
 QMS was designed as a system integrating multiple data sources:
 
 - **Data ingestion** — import from PDF and Excel files, normalization and standardization
@@ -56,7 +51,6 @@ The architecture was designed with:
 
 - ERP / CRM integration in mind,
 - future expansion with additional AI modules.
-</div>
 
 ---
 
@@ -129,4 +123,3 @@ The architecture was designed with:
   - quality
   - procurement
 - Solid foundation for further AI system development in the organization
-

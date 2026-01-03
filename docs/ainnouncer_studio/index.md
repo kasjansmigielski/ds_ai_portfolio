@@ -8,8 +8,7 @@
 
 ## Project description
 
-<div style="text-align: justify;">
-<strong>AInnouncer Studio</strong> is a comprehensive AI platform for automatic audio content generation for radio stations, built on a <strong>professional LLMs and LLOps architecture</strong>.
+**AInnouncer Studio** is a comprehensive AI platform for automatic audio content generation for radio stations, built on a **professional LLMs and LLOps architecture**.
 
 Radio stations need regular, professional audio content: weather forecasts, music announcements, on-air messages, or advertising materials. This process is time-consuming, expensive, difficult to scale, and heavily dependent on people.
 
@@ -21,15 +20,13 @@ The system combines:
 - automation,
 - monitoring and quality control.
 
-The platform was designed as a <strong>scalable SaaS</strong>, ready for multiple clients and additional modules.
-</div>
+The platform was designed as a **scalable SaaS**, ready for multiple clients and additional modules.
 
 ---
 
 ## Architecture Overview
 
-<div style="text-align: justify;">
-AInnouncer Studio is an <strong>event-driven + worker-based</strong> architecture:
+AInnouncer Studio is an **event-driven + worker-based** architecture:
 
 - **Frontend (Next.js)** — configuration of modules, prompts, voices, schedules
 - **Backend API (FastAPI)** — domain logic, routing, validation, orchestration
@@ -38,7 +35,6 @@ AInnouncer Studio is an <strong>event-driven + worker-based</strong> architectur
 - **LLOps & Observability** — Langfuse (traces, spans, cost, quality), prompt versioning, Promptfoo (prompt testing)
 - **Data Layer** — PostgreSQL (configurations, prompts, voices, schedules), S3-compatible storage (audio)
 - **Infrastructure** — Docker Compose, CI/CD, Monitoring (Prometheus + Grafana)
-</div>
 
 ---
 
@@ -122,4 +118,3 @@ AInnouncer Studio is an <strong>event-driven + worker-based</strong> architectur
 ![Scheduler](data/scheduler.png)
 ![Weather module](data/weather.png)
 ![Modules overview](data/modules.png)
-

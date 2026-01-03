@@ -49,5 +49,3 @@ I used the LLM model and I have included the implementation in a notebook ready 
 ## Links
 
 [Link to repository](https://github.com/kasjansmigielski/find_friends_app){ .md-button }
-
-[Go to application](https://find-friends-app.streamlit.app/){ .md-button }

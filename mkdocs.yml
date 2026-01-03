@@ -3,7 +3,7 @@ site_author: Kasjan Śmigielski
 site_url: https://kasjansmigielski.github.io/ds_ai_portfolio
 site_description: >-
     Portfolio of AI, Machine Learning and Data Science projects by Kasjan Śmigielski — 
-    AI Engineer, Data Scientist, ML Engineer.
+    AI/ML Engineer, Data Scientist.
 
 repo_name: kasjansmigielski/ds_ai_portfolio
 repo_url: https://github.com/kasjansmigielski/ds_ai_portfolio
@@ -31,7 +31,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.top
