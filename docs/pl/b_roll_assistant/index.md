@@ -116,9 +116,9 @@ Zaprojektowany pod **wydajność i skalowanie** w środowiskach medialnych.
 
 ## Zdjęcia
 
-![Wyszukiwanie murawa](../b_roll_assistant/data/murawa.png)
-![Wyszukiwanie zabytki](../b_roll_assistant/data/zabytki.png)
-![Zarządzanie plikami](../b_roll_assistant/data/file_management.png)
-![Ujęcia z drona](../b_roll_assistant/data/dron.png)
-![Pisanie](../b_roll_assistant/data/pisanie.png)
+![Wyszukiwanie murawa](/ds_ai_portfolio/b_roll_assistant/data/murawa.png)
+![Wyszukiwanie zabytki](/ds_ai_portfolio/b_roll_assistant/data/zabytki.png)
+![Zarządzanie plikami](/ds_ai_portfolio/b_roll_assistant/data/file_management.png)
+![Ujęcia z drona](/ds_ai_portfolio/b_roll_assistant/data/dron.png)
+![Pisanie](/ds_ai_portfolio/b_roll_assistant/data/pisanie.png)
 

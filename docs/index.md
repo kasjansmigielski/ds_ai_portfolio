@@ -4,8 +4,8 @@
 </div>
 
 <div style="text-align: center; margin: 20px 0; display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-<img src="zdj_linkedin_new.jpg" alt="Kasjan Śmigielski" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;">
-<img src="MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="140px">
+<img src="/ds_ai_portfolio/zdj_linkedin_new.jpg" alt="Kasjan Śmigielski" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;">
+<img src="/ds_ai_portfolio/MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="140px">
 </div>
 
 <div style="text-align: center; margin: 20px 0;">

@@ -116,8 +116,8 @@ Designed for **performance and scaling** in media environments.
 
 ## Sample photos
 
-![Murawa search](data/murawa.png)
-![Zabytki search](data/zabytki.png)
-![File management](data/file_management.png)
-![Drone footage](data/dron.png)
-![Pisanie](data/pisanie.png)
+![Murawa search](/ds_ai_portfolio/b_roll_assistant/data/murawa.png)
+![Zabytki search](/ds_ai_portfolio/b_roll_assistant/data/zabytki.png)
+![File management](/ds_ai_portfolio/b_roll_assistant/data/file_management.png)
+![Drone footage](/ds_ai_portfolio/b_roll_assistant/data/dron.png)
+![Pisanie](/ds_ai_portfolio/b_roll_assistant/data/pisanie.png)

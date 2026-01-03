@@ -93,12 +93,12 @@ Projekt łączy **AI engineering** z **badaniami biomedycznymi** i stanowi most 
 
 ## Zdjęcia
 
-![Stanowisko nagrywania](../larvixon_ai/data/recording.png)
-![Preprocessing](../larvixon_ai/data/preprocessing.png)
-![Analiza trajektorii 1](../larvixon_ai/data/trajectory-1.png)
-![Analiza trajektorii 2](../larvixon_ai/data/trajectory-2.png)
-![Analiza prędkości](../larvixon_ai/data/speed.png)
-![Mapy ciepła](../larvixon_ai/data/heatmaps.png)
-![Diagram różowy](../larvixon_ai/data/rose.png)
-![Wykres bąbelkowy](../larvixon_ai/data/bubble.png)
+![Stanowisko nagrywania](/ds_ai_portfolio/larvixon_ai/data/recording.png)
+![Preprocessing](/ds_ai_portfolio/larvixon_ai/data/preprocessing.png)
+![Analiza trajektorii 1](/ds_ai_portfolio/larvixon_ai/data/trajectory-1.png)
+![Analiza trajektorii 2](/ds_ai_portfolio/larvixon_ai/data/trajectory-2.png)
+![Analiza prędkości](/ds_ai_portfolio/larvixon_ai/data/speed.png)
+![Mapy ciepła](/ds_ai_portfolio/larvixon_ai/data/heatmaps.png)
+![Diagram różowy](/ds_ai_portfolio/larvixon_ai/data/rose.png)
+![Wykres bąbelkowy](/ds_ai_portfolio/larvixon_ai/data/bubble.png)
 

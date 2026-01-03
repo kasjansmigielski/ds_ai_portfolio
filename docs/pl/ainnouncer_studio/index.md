@@ -112,10 +112,10 @@ AInnouncer Studio to architektura **event-driven + worker-based**:
 
 ## Zdjęcia
 
-![Moduł traffic](../ainnouncer_studio/data/traffic.png)
-![Ustawienia](../ainnouncer_studio/data/settings.png)
-![Moduł DJ](../ainnouncer_studio/data/dj.png)
-![Harmonogram](../ainnouncer_studio/data/scheduler.png)
-![Moduł pogody](../ainnouncer_studio/data/weather.png)
-![Przegląd modułów](../ainnouncer_studio/data/modules.png)
+![Moduł traffic](/ds_ai_portfolio/ainnouncer_studio/data/traffic.png)
+![Ustawienia](/ds_ai_portfolio/ainnouncer_studio/data/settings.png)
+![Moduł DJ](/ds_ai_portfolio/ainnouncer_studio/data/dj.png)
+![Harmonogram](/ds_ai_portfolio/ainnouncer_studio/data/scheduler.png)
+![Moduł pogody](/ds_ai_portfolio/ainnouncer_studio/data/weather.png)
+![Przegląd modułów](/ds_ai_portfolio/ainnouncer_studio/data/modules.png)
 

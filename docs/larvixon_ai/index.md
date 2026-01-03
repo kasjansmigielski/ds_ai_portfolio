@@ -93,11 +93,11 @@ The project connects **AI engineering** with **biomedical research** and bridges
 
 ## Sample photos
 
-![Recording setup](data/recording.png)
-![Preprocessing](data/preprocessing.png)
-![Trajectory analysis 1](data/trajectory-1.png)
-![Trajectory analysis 2](data/trajectory-2.png)
-![Speed analysis](data/speed.png)
-![Heatmaps](data/heatmaps.png)
-![Rose diagram](data/rose.png)
-![Bubble chart](data/bubble.png)
+![Recording setup](/ds_ai_portfolio/larvixon_ai/data/recording.png)
+![Preprocessing](/ds_ai_portfolio/larvixon_ai/data/preprocessing.png)
+![Trajectory analysis 1](/ds_ai_portfolio/larvixon_ai/data/trajectory-1.png)
+![Trajectory analysis 2](/ds_ai_portfolio/larvixon_ai/data/trajectory-2.png)
+![Speed analysis](/ds_ai_portfolio/larvixon_ai/data/speed.png)
+![Heatmaps](/ds_ai_portfolio/larvixon_ai/data/heatmaps.png)
+![Rose diagram](/ds_ai_portfolio/larvixon_ai/data/rose.png)
+![Bubble chart](/ds_ai_portfolio/larvixon_ai/data/bubble.png)

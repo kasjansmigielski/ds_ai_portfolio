@@ -139,8 +139,8 @@ It demonstrated how to effectively build an **AI-powered product** at the inters
 
 ## Sample photos
 
-![Main view](data/main_view.png)
-![Profile matcher](data/profile_matcher.png)
-![Search engine](data/search_engine.png)
-![Big Five personality test](data/big_five.png)
+![Main view](/ds_ai_portfolio/career_guide/data/main_view.png)
+![Profile matcher](/ds_ai_portfolio/career_guide/data/profile_matcher.png)
+![Search engine](/ds_ai_portfolio/career_guide/data/search_engine.png)
+![Big Five personality test](/ds_ai_portfolio/career_guide/data/big_five.png)
 

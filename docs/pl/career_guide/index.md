@@ -139,8 +139,8 @@ Pokazał, jak skutecznie budować **AI-powered product** na styku technologii, b
 
 ## Zdjęcia
 
-![Widok główny](../career_guide/data/main_view.png)
-![Matcher profilu](../career_guide/data/profile_matcher.png)
-![Wyszukiwarka](../career_guide/data/search_engine.png)
-![Test osobowości Big Five](../career_guide/data/big_five.png)
+![Widok główny](/ds_ai_portfolio/career_guide/data/main_view.png)
+![Matcher profilu](/ds_ai_portfolio/career_guide/data/profile_matcher.png)
+![Wyszukiwarka](/ds_ai_portfolio/career_guide/data/search_engine.png)
+![Test osobowości Big Five](/ds_ai_portfolio/career_guide/data/big_five.png)
 
