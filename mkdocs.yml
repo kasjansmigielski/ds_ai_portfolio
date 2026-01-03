@@ -1,8 +1,9 @@
-site_name: My projects
+site_name: Kasjan Śmigielski | AI & Data Science Portfolio
 site_author: Kasjan Śmigielski
 site_url: https://kasjansmigielski.github.io/ds_ai_portfolio
 site_description: >-
-    Portfolio of my Data Science and AI projects, created with passion!
+    Portfolio of AI, Machine Learning and Data Science projects by Kasjan Śmigielski — 
+    AI Engineer, Data Scientist, ML Engineer.
 
 repo_name: kasjansmigielski/ds_ai_portfolio
 repo_url: https://github.com/kasjansmigielski/ds_ai_portfolio
@@ -34,6 +35,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.top
+    - navigation.sections
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
@@ -50,23 +52,31 @@ extra:
 
 nav:
 - Home: index.md
-- Current projects: 
+- Current Projects:
+  - "AInnouncer Studio": ainnouncer_studio/index.md
+  - "B-Roll Assistant": b_roll_assistant/index.md
+  - "Larvixon-AI": larvixon_ai/index.md
+- Commercial Projects:
   - "Knowledge Seeker": knowledge_seeker/index.md
   - "Student Profiler": student_profiler/index.md
-- My projects: 
-  - "Audio Notes": audio_notes/index.md
+  - "Quality Management System": quality_management_system/index.md
+- ML Projects:
   - "Bitcoin Price Prediction": bitcoin_prediction/index.md
   - "CIFAR-10 Image Classification": cifar10_classification/index.md
-  - "CV Generator" : cv_generator/index.md
-  - "Fashion Designer": fashion_designer/index.md
   - "Features Detective": features_detective/index.md
-  - "Find Friends": find_friends/index.md
   - "Halfmarathon Estimator": halfmarathon_estimator/index.md
+  - "Robinson Chatbot": robinson_chatbot/index.md
+- Data Analysis:
+  - "Jan Heweliusz Analysis": heweliusz/index.md
+  - "Titanic": titanic/index.md
   - "Iris": iris/index.md
+- Other Projects:
+  - "Audio Notes": audio_notes/index.md
+  - "CV Generator": cv_generator/index.md
+  - "Fashion Designer": fashion_designer/index.md
+  - "Find Friends": find_friends/index.md
   - "JustJoinIt Browser": justjoinit_browser/index.md
   - "My Chatbot": my_chatbot/index.md
-  - "Robinson Chatbot": robinson_chatbot/index.md
-  - "Titanic": titanic/index.md
   - "Welcome Survey": welcome_survey/index.md
 
 markdown_extensions: 
@@ -91,23 +101,31 @@ plugins:
           build: true
           nav_translations:
             Home: Strona główna
-            Current projects: Aktualne projekty
-            My projects: Moje projekty
+            Current Projects: Aktualne projekty
+            Commercial Projects: Projekty komercyjne
+            ML Projects: Projekty ML
+            Data Analysis: Analiza danych
+            Other Projects: Pozostałe projekty
+            AInnouncer Studio: AInnouncer Studio
+            B-Roll Assistant: B-Roll Assistant
+            Larvixon-AI: Larvixon-AI
             Knowledge Seeker: Knowledge Seeker
             Student Profiler: Student Profiler
-            Audio Notes: Audio Notes
+            Quality Management System: Quality Management System
             Bitcoin Price Prediction: Predykcja ceny Bitcoin
             CIFAR-10 Image Classification: Klasyfikacja obrazów CIFAR-10
+            Features Detective: Features Detective
+            Halfmarathon Estimator: Estymator Półmaratonu
+            Robinson Chatbot: Robinson Chatbot
+            Jan Heweliusz Analysis: Analiza katastrofy Heweliusza
+            Titanic: Titanic
+            Iris: Iris
+            Audio Notes: Audio Notes
             CV Generator: Generator CV
             Fashion Designer: Fashion Designer
-            Features Detective: Features Detective
             Find Friends: Find Friends
-            Halfmarathon Estimator: Estymator Półmaratonu
-            Iris: Iris
             JustJoinIt Browser: JustJoinIt Browser
             My Chatbot: Mój Chatbot
-            Robinson Chatbot: Robinson Chatbot
-            Titanic: Titanic
             Welcome Survey: Ankieta powitalna
           theme:
             palette:

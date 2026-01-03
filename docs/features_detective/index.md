@@ -43,12 +43,8 @@ I used PyCaret tools and I have included the implementation in a notebook ready 
 ![alt text](data/recommends.png)
 ![alt text](data/plot.png)
 
-## Application testing
-<div style="text-align: justify;">
-The application has been deployed on the Streamlit Community App and is available for public use.
-<strong><br>To use the application you need your OpenAI API Key.</strong>
-</div style>
+## Links
 
-[Link to repository](https://github.com/kasjansmigielski/feature_detective_app)<br><br>
+[Link to repository](https://github.com/kasjansmigielski/feature_detective_app){ .md-button }
+
 [Go to application](https://feature-detective.streamlit.app/){ .md-button }
-

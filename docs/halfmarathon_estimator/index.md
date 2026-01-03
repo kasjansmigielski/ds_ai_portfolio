@@ -38,11 +38,8 @@ I used PyCaret tools and I have included the implementation in a notebook ready 
 ![alt text](data/title.png)
 ![alt text](data/result.png)
 
-## Application testing
-<div style="text-align: justify;">
-The application has been deployed on the Streamlit Community App and is available for public use.
-<strong><br>To use the application you need your OpenAI API Key.</strong>
-</div style>
+## Links
 
-[Link to repository](https://github.com/kasjansmigielski/halfmarathon_estimator_app)<br><br>
+[Link to repository](https://github.com/kasjansmigielski/halfmarathon_estimator_app){ .md-button }
+
 [Go to application](https://halfmarathon-estimator.streamlit.app/){ .md-button }

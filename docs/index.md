@@ -1,53 +1,106 @@
-<div style="text-align: justify;">
-<h1>Projects from the world of data, Python programming and AI technologies</h1>
-</div style>
-
-## Introduction
-<div style="text-align: justify;">
-Welcome to my website dedicated to projects in the field of data analysis, machine learning and artificial intelligence. 
-</div style>
-
-## My short story
-
-<div style="text-align: justify;">
-In 2019, I graduated with a degree in Mechatronics from Wrocław University of Science and Technology, sparking my desire to explore new technologies. Over the past five years, I worked as an engineer in the manufacturing industry, where data played a crucial role in my work. By analyzing production and quality data, I was able to optimize processes and find innovative solutions to enhance productivity and efficiency.
-</div style>
-
 <div style="text-align: center;">
-<img src="zdj_linkedin_new.jpg" alt="Profile photo">
+<h1>Kasjan Śmigielski</h1>
+<h3>AI Engineer | Data Scientist | ML Engineer</h3>
 </div>
 
-<div style="text-align: justify;">
-Since the year, I have been developing a strong interest in AI, which has led me to <strong>complete a Data Scientist course and start building my portfolio</strong>. I have developed several practical projects and have more ideas that I aim to turn into commercial products.
-</div style>
-
-<div style="text-align: justify;">
-<br>I have also <strong>secured my dream job in a Data Science department</strong>, where I will be working on projects related to Machine Learning and Deep Learning. Additionally I am a <strong>certified AWS Machine Learning Engineer Associate</strong>, which has strengthened my cloud-based ML implementation skills.
-</div style>
-
-<div style="text-align: center;">
-<img src="MLA01.png" alt="AWS Certification" width="70%">
+<div style="text-align: center; margin: 20px 0;">
+<img src="zdj_linkedin_new.jpg" alt="Kasjan Śmigielski" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 </div>
 
-## My current activity
-<div style="text-align: justify;">
-Due to my growing passion for AI and Data Science, <strong>I began my master's studies in March 2025 in Artificial Intelligence and Machine Learning.</strong> I am deeply committed to advancing my academic career. My master's thesis will focus on utilizing computer vision algorithms in a project collaborating with the Medical University of Wrocław. <strong>This project will involve detecting larvae and analyzing their behaviors under experimental conditions.</strong>
-</div style>
+<div style="text-align: center; margin-bottom: 30px;">
+<img src="MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="150px">
+</div>
+
+---
+
+## About Me
 
 <div style="text-align: justify;">
-<br>Additionally, since January 2025, <strong>I have been a Student Success Manager at Gotoit, where I have the opportunity to mentor a Data Science course.</strong> I conduct weekly live sessions where we expand our knowledge in data and AI. I am also experimenting with creating tutorials on Python, SQL, and other libraries useful in the Data Science field.
-</div style>
+I am an <strong>AI Engineer and Data Scientist</strong> specializing in designing <strong>intelligent data-driven systems</strong> — from data analysis and EDA, through Machine Learning and Computer Vision models, to <strong>production-grade LLM architectures and RAG systems</strong>.
+
+I combine <strong>engineering experience from industry</strong> with modern AI technologies, building solutions that:
+
+- solve real business and research problems,
+- are scalable and production-ready,
+- connect AI with solid software engineering.
+</div>
+
+---
+
+## My Professional Journey
 
 <div style="text-align: justify;">
-<br>Recently, I have taken on the role of <strong>project leader for Knowledge Seeker</strong>, an innovative system that uses RAG (Retrieval-Augmented Generation) technology to transcribe, index, and extract information from video content. This project allows me to apply cutting-edge AI techniques in a practical business context.
-</div style>
+In 2019, I graduated with a degree in <strong>Mechatronics</strong> from Wrocław University of Science and Technology. Over the following years, I worked as an engineer in the manufacturing industry, where quality and process data played a crucial role in optimizing processes and decision-making.
 
+Working with real industrial data:
 
-## About portfolio
+- sparked my interest in data analysis,
+- taught me systems thinking,
+- showed me the importance of data quality and business context.
+
+The natural step was to transition towards <strong>Data Science and AI</strong>.
+</div>
+
+---
+
+## Current Focus
+
 <div style="text-align: justify;">
-Here you will find many projects I have been working on recently: from domain exploration (EDA) on ready-made datasets, through creating Streamlit applications - allowing you to browse data in a simple way, and ending with AI-powered and Machine Learning-based applications - to find patterns invisible at first glance.
-</div style>
+I completed the <strong>Data Scientist</strong> track and started systematically building a portfolio of projects covering:
+
+- exploratory data analysis (EDA),
+- analytical applications in Streamlit,
+- Machine Learning and Deep Learning systems,
+- solutions based on LLMs and semantic search.
+
+I currently work on projects in:
+
+- **Machine Learning and Deep Learning**
+- **Computer Vision**
+- **LLM integration and RAG**
+- **AI in production environments**
+
+I hold the <strong>AWS Machine Learning Engineer – Associate</strong> certification, confirming my competencies in designing and deploying ML solutions in the cloud.
+</div>
+
+---
+
+## 🎓 Teaching & Mentoring
 
 <div style="text-align: justify;">
-<br>I invite you to familiarize yourself with the projects and I hope that everyone will find something for themselves. <strong>I encourage you to visit here regularly - I intend to expand my portfolio with new ideas on an ongoing basis.</strong>
-</div style>
+Since <strong>January 2025</strong>, I have been a <strong>Student Success Manager at Gotoit</strong>, where I mentor a Data Science course. I conduct weekly live sessions where we expand knowledge in data and AI.
+
+Additionally, I teach and conduct workshops for:
+
+- **Data Science course participants** — Python, SQL, EDA, Machine Learning, Deep Learning
+- **High school students** (IT profile) — practical AI applications
+- **Teachers and pedagogical staff** — responsible and practical use of AI
+
+My teaching philosophy focuses on <strong>understanding, not memorization</strong>, <strong>real cases</strong> instead of artificial datasets, and <strong>critical thinking about AI</strong> rather than hype.
+</div>
+
+---
+
+## 📚 Academic Activity
+
+<div style="text-align: justify;">
+In March 2025, I started <strong>master's studies in Artificial Intelligence and Machine Learning</strong>.
+
+My master's thesis focuses on:
+
+- applying computer vision,
+- analyzing object behaviors in video material,
+- using ML and DL algorithms in biomedical research.
+
+The project is carried out in collaboration with the <strong>Medical University of Wrocław</strong>.
+</div>
+
+---
+
+## About This Portfolio
+
+<div style="text-align: justify;">
+Here you will find many projects I have been working on recently: from domain exploration (EDA) on ready-made datasets, through creating Streamlit applications allowing you to browse data in a simple way, and ending with AI-powered and Machine Learning-based applications to find patterns invisible at first glance.
+
+<strong>I encourage you to visit here regularly — I intend to expand my portfolio with new ideas on an ongoing basis.</strong>
+</div>

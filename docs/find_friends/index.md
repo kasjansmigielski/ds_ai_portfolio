@@ -46,10 +46,8 @@ I used the LLM model and I have included the implementation in a notebook ready 
 ![alt text](data/first.png)
 ![alt text](data/second.png)
 
-## Application testing
-<div style="text-align: justify;">
-The application has been deployed on the Streamlit Community App and <strong>is available for public use.</strong>
-</div style>
+## Links
 
-[Link to repository](https://github.com/kasjansmigielski/find_friends_app)<br><br>
+[Link to repository](https://github.com/kasjansmigielski/find_friends_app){ .md-button }
+
 [Go to application](https://find-friends-app.streamlit.app/){ .md-button }
