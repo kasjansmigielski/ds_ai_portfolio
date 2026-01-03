@@ -1,6 +1,6 @@
 # Bitcoin Price Prediction
 
-*Project start: 2025-02-04*
+*Date of creation: 2025-02-04*
 
 ## Project description
 <div style="text-align: justify">
@@ -34,7 +34,7 @@ This project focuses on developing a predictive model for Bitcoin price movement
 </ul>
 
 ## Project Report
-<strong>You can download</strong> and review the complete project report with detailed methodology and results here: [Bitcoin Price Prediction Report](Bitcoin_Prediction_Report.pdf)
+<strong>You can download</strong> and review the complete project report with detailed methodology and results here: <a href="Bitcoin_Prediction_Report.pdf" target="_blank">Bitcoin Price Prediction Report</a>
 
 
 ## Sample photos 

@@ -1,6 +1,6 @@
 # Robinson Chatbot
 
-*Start projektu: 2025-01-31*
+*Data utworzenia: 2025-01-31*
 
 ## Opis projektu
 
@@ -35,13 +35,12 @@ Projekt Robinson Chatbot eksploruje implementację technik **Retrieval-Augmented
 ## Raport projektu
 
 **Możesz pobrać** i przejrzeć kompletny raport projektu ze szczegółową metodologią i wynikami tutaj:
-[Robinson Chatbot - Raport implementacji RAG](Project_RAG.pdf)
+<a href="/ds_ai_portfolio/robinson_chatbot/Project_RAG.pdf" target="_blank">Robinson Chatbot - Raport implementacji RAG</a>
 
 ## Zdjęcia
 
-![Chunking](../robinson_chatbot/data/chunking.png)
-![Prompty](../robinson_chatbot/data/prompts.png)
-![Rozmowa](../robinson_chatbot/data/conversation.png)
-![Gotowe prompty](../robinson_chatbot/data/ready_prompts.png)
-![Modele](../robinson_chatbot/data/models.png)
-
+![Chunking](/ds_ai_portfolio/robinson_chatbot/data/chunking.png)
+![Prompty](/ds_ai_portfolio/robinson_chatbot/data/prompts.png)
+![Rozmowa](/ds_ai_portfolio/robinson_chatbot/data/conversation.png)
+![Gotowe prompty](/ds_ai_portfolio/robinson_chatbot/data/ready_prompts.png)
+![Modele](/ds_ai_portfolio/robinson_chatbot/data/models.png)

@@ -1,6 +1,6 @@
 # Predykcja ceny Bitcoina
 
-*Start projektu: 2025-02-04*
+*Data utworzenia: 2025-02-04*
 
 ## Opis projektu
 
@@ -32,14 +32,13 @@ Ten projekt koncentruje się na rozwoju modelu predykcyjnego dla ruchów cen Bit
 
 ## Raport projektu
 
-**Możesz pobrać** i przejrzeć kompletny raport projektu ze szczegółową metodologią i wynikami tutaj: [Raport predykcji ceny Bitcoina](Bitcoin_Prediction_Report.pdf)
+**Możesz pobrać** i przejrzeć kompletny raport projektu ze szczegółową metodologią i wynikami tutaj: <a href="/ds_ai_portfolio/bitcoin_prediction/Bitcoin_Prediction_Report.pdf" target="_blank">Raport predykcji ceny Bitcoina</a>
 
 ## Zdjęcia
 
-![Macierz korelacji](../bitcoin_prediction/data/corr_mat.png)
-![Wartości odstające](../bitcoin_prediction/data/outliers.png)
-![Normalizacja](../bitcoin_prediction/data/normalization.png)
-![Architektura LSTM](../bitcoin_prediction/data/lstm_architecture.png)
-![Trening](../bitcoin_prediction/data/training.png)
-![Wynik](../bitcoin_prediction/data/result.png)
-
+![Macierz korelacji](/ds_ai_portfolio/bitcoin_prediction/data/corr_mat.png)
+![Wartości odstające](/ds_ai_portfolio/bitcoin_prediction/data/outliers.png)
+![Normalizacja](/ds_ai_portfolio/bitcoin_prediction/data/normalization.png)
+![Architektura LSTM](/ds_ai_portfolio/bitcoin_prediction/data/lstm_architecture.png)
+![Trening](/ds_ai_portfolio/bitcoin_prediction/data/training.png)
+![Wynik](/ds_ai_portfolio/bitcoin_prediction/data/result.png)

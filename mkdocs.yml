@@ -56,6 +56,7 @@ nav:
   - "B-Roll Assistant": b_roll_assistant/index.md
   - "Larvixon-AI": larvixon_ai/index.md
 - Commercial Projects:
+  - "Career Guide": career_guide/index.md
   - "Knowledge Seeker": knowledge_seeker/index.md
   - "Student Profiler": student_profiler/index.md
   - "Quality Management System": quality_management_system/index.md
@@ -108,6 +109,7 @@ plugins:
             AInnouncer Studio: AInnouncer Studio
             B-Roll Assistant: B-Roll Assistant
             Larvixon-AI: Larvixon-AI
+            Career Guide: Career Guide
             Knowledge Seeker: Knowledge Seeker
             Student Profiler: Student Profiler
             Quality Management System: Quality Management System

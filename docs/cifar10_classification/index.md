@@ -1,6 +1,6 @@
 # CIFAR-10 Image Classification
 
-*Project start: 2025-02-07*
+*Date of creation: 2025-02-07*
 
 ## Project description
 <div style="text-align: justify">
@@ -34,7 +34,7 @@ This project implements an advanced <strong>Convolutional Neural Network (CNN)</
 </ul>
 
 ## Project Report
-<strong>You can download</strong> and review the complete project report with detailed methodology and results here: [CIFAR-10 Image Classification Report](CV_Project.pdf)
+<strong>You can download</strong> and review the complete project report with detailed methodology and results here: <a href="CV_Project.pdf" target="_blank">CIFAR-10 Image Classification Report</a>
 
 ## Sample photos 
 ![alt text](data/augmentation.png)

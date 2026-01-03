@@ -1,6 +1,6 @@
 # Klasyfikacja obrazów CIFAR-10
 
-*Start projektu: 2025-02-07*
+*Data utworzenia: 2025-02-07*
 
 ## Opis projektu
 
@@ -32,14 +32,13 @@ Ten projekt implementuje zaawansowaną architekturę **Konwolucyjnej Sieci Neuro
 
 ## Raport projektu
 
-**Możesz pobrać** i przejrzeć kompletny raport projektu ze szczegółową metodologią i wynikami tutaj: [Raport klasyfikacji obrazów CIFAR-10](CV_Project.pdf)
+**Możesz pobrać** i przejrzeć kompletny raport projektu ze szczegółową metodologią i wynikami tutaj: <a href="/ds_ai_portfolio/cifar10_classification/CV_Project.pdf" target="_blank">Raport klasyfikacji obrazów CIFAR-10</a>
 
 ## Zdjęcia
 
-![Augmentacja](../cifar10_classification/data/augmentation.png)
-![Klasy](../cifar10_classification/data/classes.png)
-![Obrazy](../cifar10_classification/data/pictures.png)
-![Odchylenie standardowe](../cifar10_classification/data/st_dev.png)
-![Trening](../cifar10_classification/data/training.png)
-![Macierz](../cifar10_classification/data/matrix.png)
-
+![Augmentacja](/ds_ai_portfolio/cifar10_classification/data/augmentation.png)
+![Klasy](/ds_ai_portfolio/cifar10_classification/data/classes.png)
+![Obrazy](/ds_ai_portfolio/cifar10_classification/data/pictures.png)
+![Odchylenie standardowe](/ds_ai_portfolio/cifar10_classification/data/st_dev.png)
+![Trening](/ds_ai_portfolio/cifar10_classification/data/training.png)
+![Macierz](/ds_ai_portfolio/cifar10_classification/data/matrix.png)

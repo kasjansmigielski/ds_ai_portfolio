@@ -1,6 +1,6 @@
 # Robinson Chatbot
 
-*Project start: 2025-01-31*
+*Date of creation: 2025-01-31*
 
 ## Project description
 <div style="text-align: justify">
@@ -37,7 +37,7 @@ The Robinson Chatbot project explores the implementation of <strong>Retrieval-Au
 
 ## Project Report
 <strong>You can download</strong> and review the complete project report with detailed methodology and results here:
-[Robinson Chatbot - RAG Implementation Report](Project_RAG.pdf)
+<a href="Project_RAG.pdf" target="_blank">Robinson Chatbot - RAG Implementation Report</a>
 
 
 ## Sample photos 

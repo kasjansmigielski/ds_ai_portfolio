@@ -1,8 +1,10 @@
 # Knowledge Seeker
 
-*Project start: April 2025 — Present*
+*Project start: April 2025 — August 2025*
 
-**Role:** AI / ML Engineer (Project Leader)
+**Role:** Tech Lead / Architect
+
+**Company:** GOTOIT sp. z o.o.
 
 **Status:** Production
 

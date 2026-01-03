@@ -39,16 +39,16 @@ The architecture is prepared for further integration with deep learning models.
 
 ## What I did
 
-1. Designed the algorithm for larvae detection and tracking in video
-2. Implemented image processing pipeline in OpenCV
-3. Handled different lighting variants (top / bottom)
-4. Calculated trajectories and kinematic movement parameters
-5. Conducted comparative analysis of groups:
-   - control
-   - PBS
-   - *E. coli* infected (various concentrations)
-6. Automated data export and visualization generation
-7. Analyzed results for behavioral differences
+- Designed the algorithm for larvae detection and tracking in video
+- Implemented image processing pipeline in OpenCV
+- Handled different lighting variants (top / bottom)
+- Calculated trajectories and kinematic movement parameters
+- Conducted comparative analysis of groups:
+    - control
+    - PBS
+    - *E. coli* infected (various concentrations)
+- Automated data export and visualization generation
+- Analyzed results for behavioral differences
 
 ---
 
@@ -88,3 +88,16 @@ Larvixon-AI provides a foundation for further research on:
 - using deep learning in behavioral analysis.
 
 The project connects **AI engineering** with **biomedical research** and bridges science with practical clinical applications.
+
+---
+
+## Sample photos
+
+![Recording setup](data/recording.png)
+![Preprocessing](data/preprocessing.png)
+![Trajectory analysis 1](data/trajectory-1.png)
+![Trajectory analysis 2](data/trajectory-2.png)
+![Speed analysis](data/speed.png)
+![Heatmaps](data/heatmaps.png)
+![Rose diagram](data/rose.png)
+![Bubble chart](data/bubble.png)

@@ -8,6 +8,13 @@
 <img src="MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="140px">
 </div>
 
+<div style="text-align: center; margin: 20px 0;">
+<a href="https://www.linkedin.com/in/kasjan-%C5%9Bmigielski-260287251/" target="_blank" class="md-button">LinkedIn</a>
+<a href="https://github.com/kasjansmigielski" target="_blank" class="md-button">GitHub</a>
+<a href="https://kasjansmigielski.github.io/ml-cheatsheets/" target="_blank" class="md-button">ML Cheatsheet</a>
+<a href="https://kasjansmigielski.github.io/coding-cheatsheets/" target="_blank" class="md-button">Coding Cheatsheet</a>
+</div>
+
 ---
 
 ## About Me
@@ -64,8 +71,7 @@ I hold the <strong>AWS Machine Learning Engineer – Associate</strong> certific
 
 ## 🎓 Teaching & Mentoring
 
-<div style="text-align: justify;">
-Since <strong>January 2025</strong>, I have been a <strong>Student Success Manager at Gotoit</strong>, where I mentor a Data Science course. I conduct weekly live sessions where we expand knowledge in data and AI.
+Since **January 2025**, I have been a **Student Success Manager at Gotoit**, where I mentor a Data Science course. I conduct weekly live sessions where we expand knowledge in data and AI.
 
 Additionally, I teach and conduct workshops for:
 
@@ -73,8 +79,12 @@ Additionally, I teach and conduct workshops for:
 - **High school students** (IT profile) — practical AI applications
 - **Teachers and pedagogical staff** — responsible and practical use of AI
 
-My teaching philosophy focuses on <strong>understanding, not memorization</strong>, <strong>real cases</strong> instead of artificial datasets, and <strong>critical thinking about AI</strong> rather than hype.
-</div>
+My teaching philosophy focuses on **understanding, not memorization**, **real cases** instead of artificial datasets, and **critical thinking about AI** rather than hype.
+
+I have also created dedicated resources for my students:
+
+- **[ML Cheatsheet](https://kasjansmigielski.github.io/ml-cheatsheets/)** — comprehensive Machine Learning reference guide
+- **[Coding Cheatsheet](https://kasjansmigielski.github.io/coding-cheatsheets/)** — Python and SQL exercises for practice
 
 ---
 

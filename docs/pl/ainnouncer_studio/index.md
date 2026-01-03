@@ -1,6 +1,6 @@
 # AInnouncer Studio
 
-*Start projektu: październik 2024 — obecnie*
+*Start projektu: październik 2025 — obecnie*
 
 **Rola:** Tech Lead / AI Engineer
 
@@ -104,9 +104,9 @@ AInnouncer Studio to architektura **event-driven + worker-based**:
 - Pełna kontrola nad jakością i kosztami LLM
 - System gotowy do skalowania jako produkt SaaS
 - Solidna baza pod:
-  - agentów AI
-  - kolejne moduły (reklamy, traffic, voice branding)
-  - ekspansję międzynarodową
+    - agentów AI
+    - kolejne moduły (reklamy, traffic, voice branding)
+    - ekspansję międzynarodową
 
 ---
 

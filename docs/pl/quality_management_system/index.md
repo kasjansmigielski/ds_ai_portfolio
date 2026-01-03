@@ -1,8 +1,14 @@
 # Quality Management System
 
-*Projekt: luty 2024 — sierpień 2024*
+*Projekt: czerwiec 2025 — październik 2025*
 
-**Rola:** Data / AI Engineer
+**Rola:** Data Scientist / Software Engineer
+
+**Firma:** Agroment "ZEHS" Lubań
+
+**Status:** Produkcja
+
+
 
 ---
 

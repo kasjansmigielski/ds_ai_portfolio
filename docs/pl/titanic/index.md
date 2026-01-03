@@ -8,16 +8,15 @@ Zapraszam do zapoznania się z moim projektem, który zabiera nas w świat anali
 
 ## Pobierz projekt
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
-<a href="titanic.html" target="_blank" class="md-button">Otwórz w nowej karcie ↗</a>
+<a href="/ds_ai_portfolio/titanic/titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="/ds_ai_portfolio/titanic/titanic.html" target="_blank" class="md-button">Otwórz w nowej karcie ↗</a>
 
 ## Podgląd notatnika
 
 <iframe
     id="content"
-    src="../titanic/titanic.html"
+    src="/ds_ai_portfolio/titanic/titanic.html"
     width="100%"
     height="800px"
     style="border:1px solid #ccc; border-radius: 8px;"
 ></iframe>
-

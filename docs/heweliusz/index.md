@@ -1,8 +1,8 @@
 # Jan Heweliusz Disaster Analysis
 
-*Project: March 2024 — April 2024*
+*Project: November 2025*
 
-**Role:** Data Analyst / Research Engineer
+**Role:** Data Scientist
 
 ---
 

@@ -39,16 +39,16 @@ Architektura została przygotowana pod dalszą integrację z modelami deep learn
 
 ## Co zrobiłem
 
-1. Zaprojektowałem algorytm detekcji i śledzenia larw w wideo
-2. Zaimplementowałem pipeline przetwarzania obrazu w OpenCV
-3. Obsłużyłem różne warianty oświetlenia (góra / dół)
-4. Wyznaczałem trajektorie i parametry kinematyczne ruchu
-5. Przeprowadziłem analizę porównawczą grup:
-   - kontrolnych
-   - PBS
-   - zakażonych *E. coli* (różne stężenia)
-6. Zautomatyzowałem zapis danych i generowanie wizualizacji
-7. Przeanalizowałem wyniki pod kątem różnic behawioralnych
+- Zaprojektowałem algorytm detekcji i śledzenia larw w wideo
+- Zaimplementowałem pipeline przetwarzania obrazu w OpenCV
+- Obsłużyłem różne warianty oświetlenia (góra / dół)
+- Wyznaczałem trajektorie i parametry kinematyczne ruchu
+- Przeprowadziłem analizę porównawczą grup:
+    - kontrolnych
+    - PBS
+    - zakażonych *E. coli* (różne stężenia)
+- Zautomatyzowałem zapis danych i generowanie wizualizacji
+- Przeanalizowałem wyniki pod kątem różnic behawioralnych
 
 ---
 
@@ -88,4 +88,17 @@ Larvixon-AI stanowi podstawę do dalszych badań nad:
 - wykorzystaniem deep learning w analizie behawioralnej.
 
 Projekt łączy **AI engineering** z **badaniami biomedycznymi** i stanowi most pomiędzy nauką a praktycznymi zastosowaniami klinicznymi.
+
+---
+
+## Zdjęcia
+
+![Stanowisko nagrywania](../larvixon_ai/data/recording.png)
+![Preprocessing](../larvixon_ai/data/preprocessing.png)
+![Analiza trajektorii 1](../larvixon_ai/data/trajectory-1.png)
+![Analiza trajektorii 2](../larvixon_ai/data/trajectory-2.png)
+![Analiza prędkości](../larvixon_ai/data/speed.png)
+![Mapy ciepła](../larvixon_ai/data/heatmaps.png)
+![Diagram różowy](../larvixon_ai/data/rose.png)
+![Wykres bąbelkowy](../larvixon_ai/data/bubble.png)
 

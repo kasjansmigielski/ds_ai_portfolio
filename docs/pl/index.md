@@ -8,6 +8,13 @@
 <img src="../MLA01.png" alt="AWS Certified Machine Learning Engineer Associate" width="140px">
 </div>
 
+<div style="text-align: center; margin: 20px 0;">
+<a href="https://www.linkedin.com/in/kasjan-%C5%9Bmigielski-260287251/" target="_blank" class="md-button">LinkedIn</a>
+<a href="https://github.com/kasjansmigielski" target="_blank" class="md-button">GitHub</a>
+<a href="https://kasjansmigielski.github.io/ml-cheatsheets/" target="_blank" class="md-button">ML Cheatsheet</a>
+<a href="https://kasjansmigielski.github.io/coding-cheatsheets/" target="_blank" class="md-button">Coding Cheatsheet</a>
+</div>
+
 ---
 
 ## O mnie
@@ -67,6 +74,11 @@ Dodatkowo prowadzę zajęcia i warsztaty dla:
 - **Nauczycieli i kadry pedagogicznej** — odpowiedzialne i praktyczne wykorzystanie AI
 
 Moja filozofia nauczania skupia się na **zrozumieniu, nie zapamiętywaniu**, **realnych przypadkach** zamiast sztucznych datasetów oraz **krytycznym myśleniu o AI** zamiast hype'u.
+
+Stworzyłem również dedykowane materiały dla moich kursantów:
+
+- **[ML Cheatsheet](https://kasjansmigielski.github.io/ml-cheatsheets/)** — kompleksowy przewodnik po Machine Learning
+- **[Coding Cheatsheet](https://kasjansmigielski.github.io/coding-cheatsheets/)** — ćwiczenia z Pythona i SQL do praktyki
 
 ---
 

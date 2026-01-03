@@ -1,8 +1,8 @@
 # Analiza katastrofy promu Jan Heweliusz
 
-*Projekt: marzec 2024 — kwiecień 2024*
+*Projekt: listopad 2025*
 
-**Rola:** Data Analyst / Research Engineer
+**Rola:** Data Scientist
 
 ---
 

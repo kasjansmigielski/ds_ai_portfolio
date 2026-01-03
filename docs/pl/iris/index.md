@@ -8,16 +8,15 @@ Zapraszam do zapoznania się z moim projektem, który zabiera nas w świat anali
 
 ## Pobierz projekt
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
-<a href="iris.html" target="_blank" class="md-button">Otwórz w nowej karcie ↗</a>
+<a href="/ds_ai_portfolio/iris/iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="/ds_ai_portfolio/iris/iris.html" target="_blank" class="md-button">Otwórz w nowej karcie ↗</a>
 
 ## Podgląd notatnika
 
 <iframe
     id="content"
-    src="../iris/iris.html"
+    src="/ds_ai_portfolio/iris/iris.html"
     width="100%"
     height="800px"
     style="border:1px solid #ccc; border-radius: 8px;"
 ></iframe>
-

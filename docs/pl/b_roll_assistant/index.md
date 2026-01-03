@@ -1,6 +1,6 @@
 # B-Roll Assistant
 
-*Start projektu: październik 2024 — obecnie*
+*Start projektu: listopad 2025 — obecnie*
 
 **Rola:** AI / Backend Engineer
 
