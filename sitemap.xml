@@ -1,71 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/audio_notes/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/audio_notes/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/audio_notes/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/audio_notes/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/bitcoin_prediction/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/bitcoin_prediction/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/bitcoin_prediction/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/bitcoin_prediction/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/cifar10_classification/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/cifar10_classification/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/cifar10_classification/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cifar10_classification/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/cv_generator/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/cv_generator/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/cv_generator/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cv_generator/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/fashion_designer/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/fashion_designer/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/fashion_designer/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/fashion_designer/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/features_detective/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/features_detective/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/features_detective/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/features_detective/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/find_friends/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/find_friends/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/find_friends/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/find_friends/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/halfmarathon_estimator/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/halfmarathon_estimator/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/halfmarathon_estimator/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/halfmarathon_estimator/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/iris/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/iris/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/iris/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/iris/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/justjoinit_browser/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/justjoinit_browser/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/justjoinit_browser/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/justjoinit_browser/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/knowledge_seeker/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/knowledge_seeker/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/knowledge_seeker/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/knowledge_seeker/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/my_chatbot/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/my_chatbot/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/my_chatbot/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/my_chatbot/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/robinson_chatbot/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/robinson_chatbot/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/robinson_chatbot/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/robinson_chatbot/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/student_profiler/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/student_profiler/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/student_profiler/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/student_profiler/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/titanic/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/titanic/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/titanic/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/titanic/"/>
     </url>
     <url>
-         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/welcome_survey/</loc>
-         <lastmod>2026-01-03</lastmod>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/welcome_survey/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/welcome_survey/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/welcome_survey/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/audio_notes/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/audio_notes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/audio_notes/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/bitcoin_prediction/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/bitcoin_prediction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/bitcoin_prediction/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cifar10_classification/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cifar10_classification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/cifar10_classification/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cv_generator/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cv_generator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/cv_generator/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/fashion_designer/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/fashion_designer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/fashion_designer/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/features_detective/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/features_detective/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/features_detective/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/find_friends/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/find_friends/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/find_friends/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/halfmarathon_estimator/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/halfmarathon_estimator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/halfmarathon_estimator/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/iris/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/iris/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/iris/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/justjoinit_browser/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/justjoinit_browser/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/justjoinit_browser/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/knowledge_seeker/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/knowledge_seeker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/knowledge_seeker/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/my_chatbot/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/my_chatbot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/my_chatbot/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/robinson_chatbot/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/robinson_chatbot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/robinson_chatbot/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/student_profiler/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/student_profiler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/student_profiler/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/titanic/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/titanic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/titanic/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/welcome_survey/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/welcome_survey/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/welcome_survey/"/>
     </url>
 </urlset>
