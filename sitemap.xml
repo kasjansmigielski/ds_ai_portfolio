@@ -36,6 +36,13 @@
         <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/bitcoin_prediction/"/>
     </url>
     <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/career_guide/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/career_guide/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/career_guide/"/>
+    </url>
+    <url>
         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/cifar10_classification/</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -188,6 +195,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/bitcoin_prediction/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/bitcoin_prediction/"/>
+    </url>
+    <url>
+        <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/career_guide/</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://kasjansmigielski.github.io/ds_ai_portfolio/pl/career_guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kasjansmigielski.github.io/ds_ai_portfolio/career_guide/"/>
     </url>
     <url>
         <loc>https://kasjansmigielski.github.io/ds_ai_portfolio/pl/cifar10_classification/</loc>
