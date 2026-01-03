@@ -1,4 +1,4 @@
-# B-Roll Assistant
+# B-roll Assistant
 
 *Project start: November 2025 — Present*
 
@@ -8,7 +8,7 @@
 
 ## Project description
 
-**B-Roll Assistant** is an intelligent AI assistant that **automatically catalogs video materials** and enables their **instant search**.
+**B-roll Assistant** is an intelligent AI assistant that **automatically catalogs video materials** and enables their **instant search**.
 
 In newsrooms and video production environments, time is critical. Editors and video editors must **quickly find the right B-roll**, often under deadline pressure. In practice:
 
@@ -65,7 +65,7 @@ The system enables rating results, which:
 
 ## Architecture Overview
 
-B-Roll Assistant is a **multimodal pipeline**:
+B-roll Assistant is a **multimodal pipeline**:
 
 - **Video ingestion** — file structure analysis, frame extraction
 - **AI processing** — vision → image description, text → embeddings

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-obsidian",
+        "/Users/kasjansmigielski/Desktop/Obsidian/obsidian-notes"
+      ]
+    }
+  }
+}
+

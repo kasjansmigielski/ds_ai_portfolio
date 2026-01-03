@@ -53,7 +53,7 @@ nav:
 - Home: index.md
 - Current Projects:
   - "AInnouncer Studio": ainnouncer_studio/index.md
-  - "B-Roll Assistant": b_roll_assistant/index.md
+  - "B-roll Assistant": b_roll_assistant/index.md
   - "Larvixon-AI": larvixon_ai/index.md
 - Commercial Projects:
   - "Career Guide": career_guide/index.md
@@ -107,7 +107,7 @@ plugins:
             Data Analysis: Analiza danych
             Other Projects: Pozostałe projekty
             AInnouncer Studio: AInnouncer Studio
-            B-Roll Assistant: B-Roll Assistant
+            B-roll Assistant: B-roll Assistant
             Larvixon-AI: Larvixon-AI
             Career Guide: Career Guide
             Knowledge Seeker: Knowledge Seeker
