@@ -52,3 +52,4 @@ Znajdziesz tutaj wiele projektów, nad którymi pracowałem ostatnio: od eksplor
 <br>Zapraszam do zapoznania się z projektami i mam nadzieję, że każdy znajdzie coś dla siebie. <strong>Zachęcam do regularnych odwiedzin - zamierzam na bieżąco rozszerzać moje portfolio o nowe pomysły.</strong>
 </div>
 
+
