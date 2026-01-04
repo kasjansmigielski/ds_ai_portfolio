@@ -36,3 +36,4 @@ Aplikacja została wdrożona na Streamlit Community App i **pomaga mi łatwiej g
 
 [Link do repozytorium](https://github.com/kasjansmigielski/audio_notes_app)
 
+

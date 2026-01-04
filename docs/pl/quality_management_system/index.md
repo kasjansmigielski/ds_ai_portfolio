@@ -130,3 +130,4 @@ Architektura została zaprojektowana z myślą o:
   - zakupami
 - Solidna baza pod dalszy rozwój systemów AI w organizacji
 
+

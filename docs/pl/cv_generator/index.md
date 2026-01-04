@@ -33,3 +33,4 @@ Celem tego projektu było stworzenie generatora CV, który jest łatwo edytowaln
 ![Opis](../cv_generator/data/description.png)
 ![Pobieranie](../cv_generator/data/download.png)
 
+

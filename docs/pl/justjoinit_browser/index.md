@@ -42,3 +42,4 @@ Przeprowadziłem szczegółową eksploracyjną analizę danych (EDA) używając 
 ![Statystyki](../justjoinit_browser/data/statistics.png)
 ![Wizualizacje](../justjoinit_browser/data/visualizations.png)
 
+

@@ -45,3 +45,4 @@ Wykorzystałem model LLM i zawarłem implementację w notatniku gotowym do pobra
 
 [Link do repozytorium](https://github.com/kasjansmigielski/find_friends_app){ .md-button }
 
+

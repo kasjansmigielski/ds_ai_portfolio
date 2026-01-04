@@ -108,3 +108,4 @@ Architektura została przygotowana pod dalszy rozwój funkcji opartych o AI (hum
 ![Wykres kołowy aktywności](../student_profiler/data/pie.png)
 ![Wykres pudełkowy aktywności](../student_profiler/data/box.png)
 
+

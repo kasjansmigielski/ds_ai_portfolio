@@ -128,3 +128,4 @@ Projekt pokazuje, jak **analiza danych, fizyka i walidacja modeli** pozwalają z
 ![Warunki przestrzenne](../heweliusz/data/spatial_conditions.png)
 ![Róża wiatrowo-falowa](../heweliusz/data/wind_wave_rose.png)
 
+

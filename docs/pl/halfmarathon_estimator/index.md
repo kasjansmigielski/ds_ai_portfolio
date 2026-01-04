@@ -40,3 +40,4 @@ Wykorzystałem narzędzia PyCaret i zawarłem implementację w notatniku gotowym
 
 [Link do repozytorium](https://github.com/kasjansmigielski/halfmarathon_estimator_app){ .md-button }
 
+

@@ -49,7 +49,6 @@ The natural step was to transition towards <strong>Data Science and AI</strong>.
 
 ## Current Focus
 
-<div style="text-align: justify;">
 I completed the <strong>Data Scientist</strong> track and started systematically building a portfolio of projects covering:
 
 - exploratory data analysis (EDA),
@@ -65,7 +64,7 @@ I currently work on projects in:
 - **AI in production environments**
 
 I hold the <strong>AWS Machine Learning Engineer – Associate</strong> certification, confirming my competencies in designing and deploying ML solutions in the cloud.
-</div>
+
 
 ---
 

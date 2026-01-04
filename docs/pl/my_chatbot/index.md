@@ -29,3 +29,4 @@ Celem projektu było stworzenie własnej wersji Chat GPT, opartej na interfejsie
 
 Aplikacja została wdrożona na Streamlit Community App i **pomaga mi na co dzień eksplorować sekrety AI i rozwijać moje umiejętności programistyczne.**
 
+

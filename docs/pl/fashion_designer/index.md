@@ -45,3 +45,4 @@ Celem tego projektu było stworzenie imitacji projektanta mody. Pomysł na proje
 ![Wymiary koszuli](../fashion_designer/data/shirt_dimension.png)
 ![Konstrukcja koszuli](../fashion_designer/data/shirt_construction.png)
 
+

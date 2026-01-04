@@ -28,3 +28,4 @@ Celem projektu było stworzenie aplikacji, która pozwoliłaby na proste filtrow
 ![Macierz korelacji](../welcome_survey/data/corr_mat.png)
 ![Wyniki](../welcome_survey/data/results.png)
 
+

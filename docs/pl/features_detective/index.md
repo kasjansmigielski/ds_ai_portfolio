@@ -44,3 +44,4 @@ Wykorzystałem narzędzia PyCaret i zawarłem implementację w notatniku gotowym
 
 [Link do repozytorium](https://github.com/kasjansmigielski/feature_detective_app){ .md-button }
 
+

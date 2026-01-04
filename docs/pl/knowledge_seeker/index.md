@@ -92,3 +92,4 @@ Zaprojektowałem system oparty o architekturę **RAG (Retrieval-Augmented Genera
 - Skrócenie czasu odnajdywania informacji z **minut do sekund**
 - Gotowy do skalowania, produkcyjny system AI
 
+
