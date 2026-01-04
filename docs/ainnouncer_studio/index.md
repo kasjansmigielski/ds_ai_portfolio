@@ -4,6 +4,8 @@
 
 **Role:** Tech Lead / AI Engineer
 
+**Status:** 🟢 Active Development  
+
 ---
 
 ## Project description

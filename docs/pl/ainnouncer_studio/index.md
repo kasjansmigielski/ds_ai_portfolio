@@ -4,6 +4,8 @@
 
 **Rola:** Tech Lead / AI Engineer
 
+**Status:** 🟢 Akrywny rozwój 
+
 ---
 
 ## Opis projektu
@@ -118,4 +120,3 @@ AInnouncer Studio to architektura **event-driven + worker-based**:
 ![Harmonogram](/ds_ai_portfolio/ainnouncer_studio/data/scheduler.png)
 ![Moduł pogody](/ds_ai_portfolio/ainnouncer_studio/data/weather.png)
 ![Przegląd modułów](/ds_ai_portfolio/ainnouncer_studio/data/modules.png)
-

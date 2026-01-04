@@ -6,6 +6,8 @@
 
 **Współpraca:** Uniwersytet Medyczny we Wrocławiu
 
+**Status:** 🟢 Aktywny rozwój
+
 ---
 
 ## Opis projektu
@@ -101,4 +103,3 @@ Projekt łączy **AI engineering** z **badaniami biomedycznymi** i stanowi most 
 ![Mapy ciepła](/ds_ai_portfolio/larvixon_ai/data/heatmaps.png)
 ![Diagram różowy](/ds_ai_portfolio/larvixon_ai/data/rose.png)
 ![Wykres bąbelkowy](/ds_ai_portfolio/larvixon_ai/data/bubble.png)
-

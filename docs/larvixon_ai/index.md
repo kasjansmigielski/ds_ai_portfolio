@@ -6,6 +6,8 @@
 
 **Collaboration:** Medical University of Wrocław
 
+**Status:** 🟢 Active Development  
+
 ---
 
 ## Project description

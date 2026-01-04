@@ -52,6 +52,7 @@ extra:
 nav:
 - Home: index.md
 - Current Projects:
+  - "Job Seeker Agents": job_seeker_agents/index.md
   - "AInnouncer Studio": ainnouncer_studio/index.md
   - "B-roll Assistant": b_roll_assistant/index.md
   - "Larvixon-AI": larvixon_ai/index.md
@@ -106,6 +107,7 @@ plugins:
             ML Projects: Projekty ML
             Data Analysis: Analiza danych
             Other Projects: Pozostałe projekty
+            Job Seeker Agents: Job Seeker Agents
             AInnouncer Studio: AInnouncer Studio
             B-roll Assistant: B-roll Assistant
             Larvixon-AI: Larvixon-AI

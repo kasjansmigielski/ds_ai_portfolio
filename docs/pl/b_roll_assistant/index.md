@@ -4,6 +4,8 @@
 
 **Rola:** AI / Backend Engineer
 
+**Status:** 🟢 Aktywny rozwój
+
 ---
 
 ## Opis projektu
@@ -121,4 +123,3 @@ Zaprojektowany pod **wydajność i skalowanie** w środowiskach medialnych.
 ![Zarządzanie plikami](/ds_ai_portfolio/b_roll_assistant/data/file_management.png)
 ![Ujęcia z drona](/ds_ai_portfolio/b_roll_assistant/data/dron.png)
 ![Pisanie](/ds_ai_portfolio/b_roll_assistant/data/pisanie.png)
-
